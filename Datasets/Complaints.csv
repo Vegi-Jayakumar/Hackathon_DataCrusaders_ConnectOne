@@ -1,0 +1,2225 @@
+complaint_id,complaint_date,complaint_type,resolution_days
+250635,04-22-15,Slow Internet Speed,11
+223441,08-04-15,Network Outage,7
+242732,04-18-15,Call Drop / Poor Coverage,3
+277946,07-05-15,SIM Activation Delay,3
+307175,05-26-15,SIM Activation Delay,5
+338519,12-06-15,Billing Dispute,5
+361148,06-24-15,Slow Internet Speed,5
+359792,06-23-15,Slow Internet Speed,8
+318072,01-06-15,Porting / MNP Issue,3
+371214,06-28-15,Network Outage,2
+255938,04-24-15,Network Outage,3
+276409,06-05-15,Slow Internet Speed,7
+339282,06-13-15,SIM Activation Delay,5
+360178,06-23-15,SIM Activation Delay,7
+376268,06-30-15,Network Outage,5
+370137,06-27-15,SIM Activation Delay,8
+363695,06-24-15,Porting / MNP Issue,13
+238694,04-16-15,SIM Activation Delay,2
+230876,11-04-15,VAS Unauthorized Activation,6
+318725,02-06-15,Call Drop / Poor Coverage,5
+327657,07-06-15,Network Outage,4
+328742,08-06-15,Billing Dispute,12
+328165,08-06-15,Porting / MNP Issue,11
+370538,06-27-15,Incorrect Tariff Charge,8
+370363,06-27-15,Call Drop / Poor Coverage,10
+270163,02-05-15,Billing Dispute,10
+355976,06-22-15,SIM Activation Delay,4
+260651,04-28-15,Incorrect Tariff Charge,8
+305340,05-24-15,Slow Internet Speed,2
+360759,06-24-15,Slow Internet Speed,3
+265487,04-29-15,Porting / MNP Issue,5
+296608,05-19-15,Slow Internet Speed,1
+310990,05-28-15,Incorrect Tariff Charge,7
+325342,05-06-15,Incorrect Tariff Charge,6
+337489,12-06-15,Call Drop / Poor Coverage,14
+354116,06-20-15,Network Outage,10
+371829,06-29-15,VAS Unauthorized Activation,7
+373874,06-30-15,Slow Internet Speed,13
+300824,05-21-15,Porting / MNP Issue,14
+348923,06-18-15,Slow Internet Speed,6
+302574,05-21-15,Call Drop / Poor Coverage,8
+343346,06-16-15,Incorrect Tariff Charge,6
+286768,12-05-15,SIM Activation Delay,7
+223179,08-04-15,Slow Internet Speed,14
+235980,04-14-15,Network Outage,14
+236469,04-15-15,SIM Activation Delay,14
+288602,05-13-15,Call Drop / Poor Coverage,11
+309379,05-27-15,Slow Internet Speed,10
+351079,06-19-15,SIM Activation Delay,3
+366705,06-25-15,Slow Internet Speed,5
+368705,06-26-15,Porting / MNP Issue,6
+347369,06-17-15,Call Drop / Poor Coverage,10
+291784,05-15-15,VAS Unauthorized Activation,12
+308478,05-26-15,Incorrect Tariff Charge,4
+309851,05-27-15,Billing Dispute,8
+367342,06-26-15,Incorrect Tariff Charge,6
+227209,09-04-15,Incorrect Tariff Charge,3
+266376,04-30-15,SIM Activation Delay,7
+325273,05-06-15,Call Drop / Poor Coverage,6
+342435,06-15-15,Slow Internet Speed,5
+348514,06-18-15,Billing Dispute,12
+352100,06-19-15,SIM Activation Delay,12
+355887,06-22-15,Billing Dispute,11
+356118,06-22-15,VAS Unauthorized Activation,8
+363869,06-25-15,Porting / MNP Issue,10
+369398,06-26-15,Call Drop / Poor Coverage,13
+226231,09-04-15,SIM Activation Delay,4
+241880,04-17-15,Incorrect Tariff Charge,6
+360187,06-23-15,Network Outage,7
+223960,08-04-15,SIM Activation Delay,5
+355934,06-22-15,Network Outage,14
+211976,01-04-15,Incorrect Tariff Charge,13
+243998,04-19-15,Porting / MNP Issue,7
+265755,04-30-15,Call Drop / Poor Coverage,6
+230907,11-04-15,Slow Internet Speed,2
+231273,12-04-15,SIM Activation Delay,10
+231292,12-04-15,Incorrect Tariff Charge,4
+231377,12-04-15,SIM Activation Delay,10
+252681,04-23-15,VAS Unauthorized Activation,9
+268101,01-05-15,Porting / MNP Issue,3
+269066,01-05-15,VAS Unauthorized Activation,11
+273420,05-05-15,Billing Dispute,13
+278509,07-05-15,Call Drop / Poor Coverage,9
+279656,08-05-15,Billing Dispute,1
+288771,05-13-15,SIM Activation Delay,12
+293512,05-16-15,Call Drop / Poor Coverage,8
+297104,05-19-15,Porting / MNP Issue,12
+303412,05-22-15,Porting / MNP Issue,4
+304450,05-23-15,Incorrect Tariff Charge,8
+305137,05-23-15,SIM Activation Delay,13
+305982,05-25-15,Billing Dispute,5
+307799,05-26-15,VAS Unauthorized Activation,14
+308171,05-26-15,Slow Internet Speed,12
+312746,05-28-15,Network Outage,2
+311725,05-28-15,Slow Internet Speed,14
+313949,05-29-15,Billing Dispute,14
+315173,05-30-15,Billing Dispute,13
+317945,01-06-15,Porting / MNP Issue,13
+318301,02-06-15,Slow Internet Speed,7
+322511,03-06-15,Porting / MNP Issue,11
+322882,04-06-15,Porting / MNP Issue,8
+323473,04-06-15,VAS Unauthorized Activation,3
+325596,05-06-15,Call Drop / Poor Coverage,11
+327291,07-06-15,Network Outage,5
+334035,10-06-15,Slow Internet Speed,4
+340637,06-15-15,Call Drop / Poor Coverage,5
+341535,06-15-15,Incorrect Tariff Charge,11
+350016,06-18-15,Slow Internet Speed,3
+349567,06-18-15,Call Drop / Poor Coverage,12
+349716,06-18-15,Porting / MNP Issue,7
+354254,06-20-15,Billing Dispute,13
+355121,06-22-15,VAS Unauthorized Activation,7
+357856,06-23-15,Network Outage,2
+359719,06-23-15,Call Drop / Poor Coverage,8
+359260,06-23-15,Billing Dispute,10
+358601,06-23-15,Slow Internet Speed,8
+362076,06-24-15,Call Drop / Poor Coverage,10
+362097,06-24-15,SIM Activation Delay,7
+363616,06-24-15,Billing Dispute,9
+361720,06-24-15,Incorrect Tariff Charge,9
+362223,06-24-15,Billing Dispute,14
+363102,06-24-15,Network Outage,12
+363235,06-24-15,Incorrect Tariff Charge,7
+363424,06-24-15,VAS Unauthorized Activation,9
+365321,06-25-15,Network Outage,1
+363860,06-25-15,Slow Internet Speed,13
+368838,06-26-15,Incorrect Tariff Charge,6
+367718,06-26-15,Call Drop / Poor Coverage,12
+370846,06-28-15,SIM Activation Delay,13
+372331,06-29-15,Network Outage,9
+373205,06-29-15,SIM Activation Delay,10
+375377,06-30-15,Slow Internet Speed,11
+373977,06-30-15,Slow Internet Speed,2
+344456,06-16-15,VAS Unauthorized Activation,2
+374159,06-30-15,Slow Internet Speed,13
+359224,06-23-15,Billing Dispute,4
+274956,05-05-15,Billing Dispute,11
+338651,06-13-15,VAS Unauthorized Activation,11
+369453,06-26-15,Billing Dispute,6
+221984,07-04-15,Call Drop / Poor Coverage,3
+346885,06-17-15,Porting / MNP Issue,11
+359070,06-23-15,SIM Activation Delay,10
+372769,06-29-15,SIM Activation Delay,1
+311239,05-28-15,Call Drop / Poor Coverage,10
+339371,06-13-15,Porting / MNP Issue,11
+360222,06-23-15,Incorrect Tariff Charge,11
+370518,06-27-15,VAS Unauthorized Activation,11
+335988,11-06-15,VAS Unauthorized Activation,7
+361604,06-24-15,Slow Internet Speed,13
+369583,06-27-15,SIM Activation Delay,6
+342399,06-15-15,SIM Activation Delay,13
+359858,06-23-15,Slow Internet Speed,7
+363993,06-25-15,Incorrect Tariff Charge,2
+223256,08-04-15,Network Outage,1
+375093,06-30-15,SIM Activation Delay,2
+347937,06-18-15,SIM Activation Delay,5
+360286,06-23-15,Network Outage,4
+279378,07-05-15,Slow Internet Speed,9
+301854,05-21-15,Network Outage,12
+306805,05-26-15,SIM Activation Delay,9
+373653,06-29-15,Slow Internet Speed,9
+304583,05-23-15,Network Outage,10
+324795,05-06-15,Incorrect Tariff Charge,12
+348338,06-18-15,Slow Internet Speed,10
+241422,04-17-15,SIM Activation Delay,4
+252368,04-23-15,Call Drop / Poor Coverage,8
+259003,04-27-15,VAS Unauthorized Activation,6
+312881,05-29-15,SIM Activation Delay,7
+319505,02-06-15,Billing Dispute,8
+342923,06-16-15,VAS Unauthorized Activation,13
+343096,06-16-15,SIM Activation Delay,11
+343625,06-16-15,VAS Unauthorized Activation,10
+348974,06-18-15,Porting / MNP Issue,12
+356080,06-22-15,SIM Activation Delay,9
+360196,06-23-15,Slow Internet Speed,3
+358485,06-23-15,Slow Internet Speed,6
+360378,06-23-15,Porting / MNP Issue,1
+357904,06-23-15,Incorrect Tariff Charge,8
+361480,06-24-15,Porting / MNP Issue,2
+364840,06-25-15,Porting / MNP Issue,5
+368793,06-26-15,VAS Unauthorized Activation,7
+370296,06-27-15,Network Outage,2
+373716,06-29-15,Slow Internet Speed,2
+360325,06-23-15,Network Outage,14
+249688,04-22-15,Porting / MNP Issue,12
+270364,02-05-15,Incorrect Tariff Charge,3
+256911,04-25-15,Slow Internet Speed,6
+332159,10-06-15,SIM Activation Delay,5
+294386,05-18-15,SIM Activation Delay,6
+327139,06-06-15,SIM Activation Delay,8
+360806,06-24-15,VAS Unauthorized Activation,13
+375249,06-30-15,Billing Dispute,4
+373009,06-29-15,Porting / MNP Issue,9
+229055,10-04-15,Billing Dispute,8
+365445,06-25-15,Call Drop / Poor Coverage,6
+252877,04-23-15,VAS Unauthorized Activation,8
+316088,05-31-15,SIM Activation Delay,2
+297569,05-19-15,Slow Internet Speed,8
+282375,10-05-15,VAS Unauthorized Activation,12
+249174,04-21-15,Slow Internet Speed,12
+327919,08-06-15,Network Outage,8
+238313,04-15-15,Network Outage,6
+226213,09-04-15,Slow Internet Speed,2
+216441,03-04-15,SIM Activation Delay,5
+364301,06-25-15,Billing Dispute,1
+367375,06-26-15,Porting / MNP Issue,13
+235996,04-14-15,VAS Unauthorized Activation,12
+231265,12-04-15,VAS Unauthorized Activation,2
+363097,06-24-15,SIM Activation Delay,1
+304557,05-23-15,Porting / MNP Issue,14
+260284,04-27-15,Network Outage,6
+260286,04-27-15,Billing Dispute,11
+272802,04-05-15,Porting / MNP Issue,2
+293050,05-16-15,Network Outage,11
+351961,06-19-15,Porting / MNP Issue,13
+360739,06-24-15,Call Drop / Poor Coverage,3
+360830,06-24-15,VAS Unauthorized Activation,12
+370385,06-27-15,Call Drop / Poor Coverage,4
+232450,04-13-15,Porting / MNP Issue,9
+373879,06-30-15,VAS Unauthorized Activation,3
+347973,06-18-15,Billing Dispute,9
+353984,06-20-15,SIM Activation Delay,3
+348310,06-18-15,Call Drop / Poor Coverage,6
+300985,05-21-15,SIM Activation Delay,9
+336029,11-06-15,Network Outage,7
+353614,06-20-15,Network Outage,8
+350810,06-18-15,Incorrect Tariff Charge,4
+347021,06-17-15,Network Outage,13
+347789,06-18-15,Network Outage,7
+358822,06-23-15,VAS Unauthorized Activation,11
+249465,04-22-15,Billing Dispute,3
+360372,06-23-15,Network Outage,3
+360432,06-23-15,Slow Internet Speed,11
+367310,06-26-15,Billing Dispute,11
+251442,04-22-15,Slow Internet Speed,7
+363940,06-25-15,Slow Internet Speed,7
+367449,06-26-15,SIM Activation Delay,1
+312775,05-28-15,Porting / MNP Issue,12
+360666,06-24-15,Slow Internet Speed,10
+327468,07-06-15,SIM Activation Delay,4
+239613,04-16-15,Network Outage,8
+253813,04-23-15,Slow Internet Speed,10
+259141,04-27-15,Porting / MNP Issue,7
+275079,05-05-15,Incorrect Tariff Charge,7
+292598,05-15-15,Call Drop / Poor Coverage,1
+294846,05-18-15,SIM Activation Delay,12
+319332,02-06-15,Incorrect Tariff Charge,4
+353911,06-20-15,SIM Activation Delay,4
+370148,06-27-15,Call Drop / Poor Coverage,5
+376154,06-30-15,Porting / MNP Issue,13
+375862,06-30-15,Billing Dispute,12
+234849,04-14-15,Call Drop / Poor Coverage,13
+344483,06-16-15,VAS Unauthorized Activation,13
+315491,05-30-15,Incorrect Tariff Charge,2
+240843,04-17-15,Slow Internet Speed,10
+256620,04-25-15,Network Outage,2
+331321,09-06-15,VAS Unauthorized Activation,13
+359031,06-23-15,Slow Internet Speed,14
+360419,06-23-15,Slow Internet Speed,9
+362450,06-24-15,SIM Activation Delay,3
+215573,02-04-15,Call Drop / Poor Coverage,6
+317979,01-06-15,Billing Dispute,6
+231412,12-04-15,Incorrect Tariff Charge,4
+292412,05-15-15,Slow Internet Speed,8
+370586,06-27-15,SIM Activation Delay,2
+370638,06-27-15,Incorrect Tariff Charge,5
+215789,03-04-15,Call Drop / Poor Coverage,11
+260358,04-27-15,Billing Dispute,14
+212818,01-04-15,VAS Unauthorized Activation,8
+338907,06-13-15,Call Drop / Poor Coverage,9
+371186,06-28-15,Network Outage,11
+228369,10-04-15,Call Drop / Poor Coverage,6
+329488,08-06-15,Slow Internet Speed,10
+358865,06-23-15,Billing Dispute,7
+362663,06-24-15,Call Drop / Poor Coverage,10
+235817,04-14-15,Slow Internet Speed,7
+354359,06-20-15,Slow Internet Speed,10
+316562,01-06-15,Billing Dispute,2
+283105,11-05-15,Call Drop / Poor Coverage,6
+358373,06-23-15,Call Drop / Poor Coverage,6
+360353,06-23-15,SIM Activation Delay,14
+360370,06-23-15,Incorrect Tariff Charge,8
+360980,06-24-15,SIM Activation Delay,10
+300066,05-20-15,Call Drop / Poor Coverage,3
+257589,04-26-15,VAS Unauthorized Activation,14
+358720,06-23-15,Call Drop / Poor Coverage,11
+370683,06-28-15,Network Outage,12
+214442,02-04-15,Slow Internet Speed,13
+255005,04-24-15,Porting / MNP Issue,5
+358608,06-23-15,Call Drop / Poor Coverage,10
+264505,04-29-15,Network Outage,10
+308086,05-26-15,Network Outage,2
+355113,06-22-15,Incorrect Tariff Charge,11
+363585,06-24-15,Billing Dispute,3
+365533,06-25-15,Call Drop / Poor Coverage,6
+294208,05-17-15,Billing Dispute,2
+364429,06-25-15,VAS Unauthorized Activation,4
+364278,06-25-15,Porting / MNP Issue,5
+257067,04-25-15,Network Outage,2
+329486,08-06-15,Slow Internet Speed,3
+255676,04-24-15,Slow Internet Speed,6
+361430,06-24-15,Billing Dispute,12
+362230,06-24-15,Network Outage,3
+367225,06-25-15,Incorrect Tariff Charge,9
+370637,06-27-15,Billing Dispute,7
+370930,06-28-15,Porting / MNP Issue,7
+233950,04-14-15,Billing Dispute,10
+346447,06-17-15,Network Outage,3
+360896,06-24-15,Call Drop / Poor Coverage,10
+358891,06-23-15,Incorrect Tariff Charge,7
+358669,06-23-15,Network Outage,7
+337181,12-06-15,Incorrect Tariff Charge,3
+369878,06-27-15,SIM Activation Delay,8
+275759,06-05-15,SIM Activation Delay,11
+258369,04-27-15,Slow Internet Speed,9
+362348,06-24-15,Incorrect Tariff Charge,12
+265612,04-29-15,Porting / MNP Issue,11
+249466,04-22-15,Billing Dispute,3
+276254,06-05-15,SIM Activation Delay,9
+360678,06-24-15,Billing Dispute,3
+232947,04-13-15,Billing Dispute,8
+223515,08-04-15,Porting / MNP Issue,5
+250591,04-22-15,Network Outage,3
+301085,05-21-15,Billing Dispute,3
+340458,06-15-15,Incorrect Tariff Charge,6
+357799,06-23-15,Porting / MNP Issue,14
+363493,06-24-15,SIM Activation Delay,8
+365561,06-25-15,Call Drop / Poor Coverage,10
+351820,06-19-15,Billing Dispute,1
+315997,05-31-15,Slow Internet Speed,14
+354888,06-21-15,Porting / MNP Issue,6
+322409,03-06-15,Network Outage,1
+300123,05-20-15,VAS Unauthorized Activation,8
+300124,05-20-15,SIM Activation Delay,3
+306406,05-26-15,SIM Activation Delay,4
+309491,05-27-15,VAS Unauthorized Activation,14
+321367,03-06-15,Incorrect Tariff Charge,7
+321463,03-06-15,Call Drop / Poor Coverage,9
+323066,04-06-15,SIM Activation Delay,9
+360511,06-23-15,SIM Activation Delay,11
+260759,04-28-15,Network Outage,8
+216625,03-04-15,SIM Activation Delay,7
+362490,06-24-15,Porting / MNP Issue,11
+358063,06-23-15,Incorrect Tariff Charge,8
+253400,04-23-15,Call Drop / Poor Coverage,7
+361104,06-24-15,Slow Internet Speed,12
+240138,04-16-15,Call Drop / Poor Coverage,14
+350243,06-18-15,Incorrect Tariff Charge,8
+363169,06-24-15,Porting / MNP Issue,8
+236498,04-15-15,Incorrect Tariff Charge,3
+295722,05-18-15,Network Outage,2
+339682,06-14-15,Slow Internet Speed,10
+229565,10-04-15,Call Drop / Poor Coverage,1
+255045,04-24-15,Billing Dispute,13
+255050,04-24-15,Call Drop / Poor Coverage,13
+258943,04-27-15,Network Outage,4
+263893,04-29-15,Slow Internet Speed,5
+374487,06-30-15,Porting / MNP Issue,1
+221430,07-04-15,Incorrect Tariff Charge,5
+279279,07-05-15,Incorrect Tariff Charge,4
+319702,02-06-15,Porting / MNP Issue,9
+369455,06-26-15,Slow Internet Speed,5
+362901,06-24-15,Porting / MNP Issue,3
+357454,06-23-15,SIM Activation Delay,13
+316295,01-06-15,Call Drop / Poor Coverage,8
+293621,05-16-15,Network Outage,10
+353861,06-20-15,Porting / MNP Issue,12
+219355,06-04-15,Network Outage,13
+244252,04-20-15,SIM Activation Delay,13
+327188,06-06-15,Incorrect Tariff Charge,8
+327649,07-06-15,Porting / MNP Issue,9
+327672,07-06-15,Slow Internet Speed,9
+359201,06-23-15,Incorrect Tariff Charge,2
+360047,06-23-15,Incorrect Tariff Charge,10
+362066,06-24-15,Slow Internet Speed,2
+360715,06-24-15,Call Drop / Poor Coverage,5
+267602,04-30-15,Call Drop / Poor Coverage,13
+238543,04-16-15,Porting / MNP Issue,9
+346941,06-17-15,Incorrect Tariff Charge,14
+367115,06-25-15,Porting / MNP Issue,6
+367381,06-26-15,Call Drop / Poor Coverage,9
+234266,04-14-15,Billing Dispute,14
+314287,05-29-15,SIM Activation Delay,13
+262351,04-28-15,Porting / MNP Issue,1
+321744,03-06-15,Porting / MNP Issue,13
+223190,08-04-15,Billing Dispute,12
+226269,09-04-15,Call Drop / Poor Coverage,8
+232709,04-13-15,Porting / MNP Issue,9
+232829,04-13-15,Network Outage,4
+261661,04-28-15,Call Drop / Poor Coverage,7
+214441,02-04-15,Call Drop / Poor Coverage,2
+216141,03-04-15,SIM Activation Delay,12
+231532,04-13-15,Porting / MNP Issue,14
+246073,04-20-15,Incorrect Tariff Charge,11
+260565,04-28-15,VAS Unauthorized Activation,13
+267753,04-30-15,VAS Unauthorized Activation,4
+266647,04-30-15,VAS Unauthorized Activation,5
+268909,01-05-15,SIM Activation Delay,14
+278392,07-05-15,VAS Unauthorized Activation,1
+279767,08-05-15,Billing Dispute,8
+284044,11-05-15,Slow Internet Speed,5
+285615,12-05-15,Call Drop / Poor Coverage,6
+288996,05-13-15,Incorrect Tariff Charge,14
+292575,05-15-15,Slow Internet Speed,14
+304026,05-22-15,SIM Activation Delay,2
+303128,05-22-15,Call Drop / Poor Coverage,8
+305594,05-25-15,SIM Activation Delay,14
+317887,01-06-15,SIM Activation Delay,2
+318605,02-06-15,Billing Dispute,13
+325959,05-06-15,Network Outage,13
+327275,07-06-15,Network Outage,4
+329685,08-06-15,SIM Activation Delay,4
+331541,09-06-15,VAS Unauthorized Activation,13
+330456,09-06-15,Slow Internet Speed,12
+330180,09-06-15,VAS Unauthorized Activation,10
+339886,06-14-15,Porting / MNP Issue,12
+341405,06-15-15,SIM Activation Delay,6
+342222,06-15-15,Porting / MNP Issue,14
+343753,06-16-15,VAS Unauthorized Activation,12
+347598,06-17-15,Porting / MNP Issue,10
+347580,06-17-15,SIM Activation Delay,11
+358598,06-23-15,Billing Dispute,7
+359956,06-23-15,Network Outage,3
+358620,06-23-15,Slow Internet Speed,10
+361003,06-24-15,Porting / MNP Issue,3
+361084,06-24-15,SIM Activation Delay,13
+360620,06-24-15,Billing Dispute,4
+366291,06-25-15,VAS Unauthorized Activation,14
+373777,06-29-15,Network Outage,4
+373309,06-29-15,SIM Activation Delay,13
+375500,06-30-15,Slow Internet Speed,1
+376064,06-30-15,VAS Unauthorized Activation,10
+367366,06-26-15,Billing Dispute,6
+264757,04-29-15,VAS Unauthorized Activation,9
+331935,10-06-15,Incorrect Tariff Charge,5
+354309,06-20-15,VAS Unauthorized Activation,10
+316846,01-06-15,Porting / MNP Issue,9
+367352,06-26-15,VAS Unauthorized Activation,3
+215755,03-04-15,Billing Dispute,6
+222582,07-04-15,VAS Unauthorized Activation,12
+338507,12-06-15,VAS Unauthorized Activation,5
+338606,12-06-15,Call Drop / Poor Coverage,5
+362956,06-24-15,SIM Activation Delay,10
+267711,04-30-15,Call Drop / Poor Coverage,5
+369578,06-27-15,VAS Unauthorized Activation,14
+362724,06-24-15,SIM Activation Delay,9
+307701,05-26-15,Call Drop / Poor Coverage,11
+242189,04-17-15,VAS Unauthorized Activation,14
+228974,10-04-15,Slow Internet Speed,2
+323310,04-06-15,Call Drop / Poor Coverage,3
+354467,06-21-15,SIM Activation Delay,13
+307370,05-26-15,Call Drop / Poor Coverage,13
+311844,05-28-15,Incorrect Tariff Charge,7
+249320,04-22-15,Incorrect Tariff Charge,1
+321762,03-06-15,Slow Internet Speed,5
+218516,05-04-15,Billing Dispute,14
+256506,04-24-15,Billing Dispute,11
+359317,06-23-15,SIM Activation Delay,3
+254426,04-24-15,Porting / MNP Issue,12
+360207,06-23-15,Billing Dispute,14
+216279,03-04-15,SIM Activation Delay,3
+230071,10-04-15,Slow Internet Speed,4
+257026,04-25-15,Porting / MNP Issue,3
+287000,05-13-15,Porting / MNP Issue,12
+315874,05-31-15,Incorrect Tariff Charge,6
+336234,12-06-15,VAS Unauthorized Activation,14
+359931,06-23-15,Porting / MNP Issue,4
+363251,06-24-15,Network Outage,13
+368799,06-26-15,SIM Activation Delay,14
+354541,06-21-15,Porting / MNP Issue,11
+355761,06-22-15,Porting / MNP Issue,7
+221714,07-04-15,Network Outage,8
+251830,04-23-15,Porting / MNP Issue,3
+360308,06-23-15,VAS Unauthorized Activation,10
+281798,09-05-15,Network Outage,11
+280486,08-05-15,Incorrect Tariff Charge,5
+359962,06-23-15,Call Drop / Poor Coverage,11
+248736,04-21-15,Porting / MNP Issue,7
+358558,06-23-15,Porting / MNP Issue,7
+367651,06-26-15,SIM Activation Delay,8
+302833,05-22-15,VAS Unauthorized Activation,2
+361815,06-24-15,SIM Activation Delay,11
+215011,02-04-15,Call Drop / Poor Coverage,13
+243443,04-18-15,Porting / MNP Issue,13
+360340,06-23-15,VAS Unauthorized Activation,2
+371399,06-29-15,Network Outage,7
+221047,07-04-15,Porting / MNP Issue,9
+222682,07-04-15,Incorrect Tariff Charge,12
+304120,05-22-15,Porting / MNP Issue,5
+360766,06-24-15,Billing Dispute,12
+360800,06-24-15,VAS Unauthorized Activation,6
+338940,06-13-15,Billing Dispute,8
+342392,06-15-15,Network Outage,8
+367187,06-25-15,Porting / MNP Issue,6
+358556,06-23-15,Network Outage,10
+360356,06-23-15,Slow Internet Speed,1
+360214,06-23-15,Porting / MNP Issue,14
+273147,05-05-15,Billing Dispute,13
+359243,06-23-15,VAS Unauthorized Activation,14
+362056,06-24-15,Billing Dispute,12
+370825,06-28-15,Network Outage,2
+349836,06-18-15,Call Drop / Poor Coverage,12
+308341,05-26-15,Porting / MNP Issue,8
+308477,05-26-15,Incorrect Tariff Charge,11
+312553,05-28-15,SIM Activation Delay,11
+325844,05-06-15,VAS Unauthorized Activation,12
+331839,09-06-15,Incorrect Tariff Charge,6
+338753,06-13-15,Incorrect Tariff Charge,14
+358141,06-23-15,Porting / MNP Issue,2
+361026,06-24-15,Call Drop / Poor Coverage,13
+361262,06-24-15,Porting / MNP Issue,9
+371490,06-29-15,Call Drop / Poor Coverage,7
+317983,01-06-15,Slow Internet Speed,4
+322002,03-06-15,VAS Unauthorized Activation,7
+349925,06-18-15,Network Outage,14
+300994,05-21-15,Network Outage,4
+360885,06-24-15,Incorrect Tariff Charge,8
+360740,06-24-15,SIM Activation Delay,5
+304707,05-23-15,Slow Internet Speed,6
+370897,06-28-15,Network Outage,14
+371339,06-28-15,Network Outage,5
+374265,06-30-15,SIM Activation Delay,6
+321859,03-06-15,SIM Activation Delay,9
+361174,06-24-15,Network Outage,10
+361593,06-24-15,Billing Dispute,3
+374783,06-30-15,SIM Activation Delay,10
+363368,06-24-15,Billing Dispute,14
+242847,04-18-15,VAS Unauthorized Activation,8
+351573,06-19-15,Slow Internet Speed,13
+371536,06-29-15,SIM Activation Delay,6
+236425,04-15-15,VAS Unauthorized Activation,11
+376227,06-30-15,Call Drop / Poor Coverage,13
+339894,06-14-15,Incorrect Tariff Charge,1
+262190,04-28-15,Billing Dispute,1
+288196,05-13-15,Slow Internet Speed,2
+360651,06-24-15,Billing Dispute,11
+282820,11-05-15,Call Drop / Poor Coverage,13
+373822,06-29-15,Slow Internet Speed,14
+362897,06-24-15,Network Outage,8
+242346,04-17-15,Call Drop / Poor Coverage,1
+361093,06-24-15,Porting / MNP Issue,2
+263641,04-29-15,Porting / MNP Issue,14
+304759,05-23-15,SIM Activation Delay,3
+313021,05-29-15,Slow Internet Speed,8
+332081,10-06-15,SIM Activation Delay,8
+332082,10-06-15,Slow Internet Speed,1
+347577,06-17-15,Call Drop / Poor Coverage,7
+368187,06-26-15,Slow Internet Speed,4
+367526,06-26-15,Network Outage,12
+245446,04-20-15,Incorrect Tariff Charge,3
+313550,05-29-15,Porting / MNP Issue,11
+330272,09-06-15,Incorrect Tariff Charge,5
+364845,06-25-15,Slow Internet Speed,3
+315506,05-30-15,Incorrect Tariff Charge,14
+262339,04-28-15,Network Outage,5
+367295,06-25-15,Porting / MNP Issue,2
+233417,04-13-15,VAS Unauthorized Activation,11
+318583,02-06-15,Slow Internet Speed,6
+332981,10-06-15,Porting / MNP Issue,5
+360267,06-23-15,Incorrect Tariff Charge,2
+369595,06-27-15,VAS Unauthorized Activation,6
+218043,04-04-15,Billing Dispute,11
+238450,04-15-15,Porting / MNP Issue,11
+249498,04-22-15,Billing Dispute,3
+256302,04-24-15,Call Drop / Poor Coverage,1
+254454,04-24-15,VAS Unauthorized Activation,7
+278557,07-05-15,VAS Unauthorized Activation,11
+294253,05-17-15,Porting / MNP Issue,5
+298254,05-19-15,Call Drop / Poor Coverage,12
+319026,02-06-15,Incorrect Tariff Charge,12
+326422,05-06-15,SIM Activation Delay,13
+329312,08-06-15,Slow Internet Speed,4
+337337,12-06-15,Call Drop / Poor Coverage,7
+350389,06-18-15,VAS Unauthorized Activation,11
+355818,06-22-15,SIM Activation Delay,2
+359125,06-23-15,VAS Unauthorized Activation,12
+359237,06-23-15,Porting / MNP Issue,2
+359538,06-23-15,Incorrect Tariff Charge,1
+363079,06-24-15,Network Outage,4
+367512,06-26-15,VAS Unauthorized Activation,8
+370212,06-27-15,Incorrect Tariff Charge,2
+371318,06-28-15,Billing Dispute,3
+370876,06-28-15,VAS Unauthorized Activation,10
+309213,05-27-15,SIM Activation Delay,4
+217999,04-04-15,Incorrect Tariff Charge,9
+243449,04-18-15,Call Drop / Poor Coverage,11
+239699,04-16-15,Incorrect Tariff Charge,8
+249477,04-22-15,Call Drop / Poor Coverage,1
+306959,05-26-15,Call Drop / Poor Coverage,1
+339008,06-13-15,Network Outage,12
+373332,06-29-15,SIM Activation Delay,6
+372553,06-29-15,Slow Internet Speed,14
+373429,06-29-15,SIM Activation Delay,2
+376141,06-30-15,Porting / MNP Issue,14
+249164,04-21-15,VAS Unauthorized Activation,7
+302143,05-21-15,SIM Activation Delay,12
+243607,04-19-15,VAS Unauthorized Activation,3
+359915,06-23-15,VAS Unauthorized Activation,8
+275658,06-05-15,VAS Unauthorized Activation,2
+263790,04-29-15,Network Outage,4
+362194,06-24-15,Slow Internet Speed,7
+357874,06-23-15,Call Drop / Poor Coverage,2
+307493,05-26-15,SIM Activation Delay,12
+363607,06-24-15,Porting / MNP Issue,13
+249591,04-22-15,SIM Activation Delay,2
+332712,10-06-15,Call Drop / Poor Coverage,2
+363854,06-25-15,Incorrect Tariff Charge,6
+258515,04-27-15,VAS Unauthorized Activation,6
+221068,07-04-15,Incorrect Tariff Charge,5
+266657,04-30-15,Porting / MNP Issue,3
+238258,04-15-15,Incorrect Tariff Charge,7
+270964,04-05-15,Incorrect Tariff Charge,13
+256312,04-24-15,VAS Unauthorized Activation,14
+266686,04-30-15,Call Drop / Poor Coverage,13
+294252,05-17-15,Call Drop / Poor Coverage,14
+315855,05-31-15,Call Drop / Poor Coverage,3
+373569,06-29-15,SIM Activation Delay,11
+351246,06-19-15,Slow Internet Speed,11
+338638,06-13-15,SIM Activation Delay,3
+364817,06-25-15,Incorrect Tariff Charge,2
+260681,04-28-15,Slow Internet Speed,9
+326518,06-06-15,Billing Dispute,10
+350956,06-19-15,SIM Activation Delay,1
+354423,06-20-15,SIM Activation Delay,10
+255465,04-24-15,VAS Unauthorized Activation,11
+285591,12-05-15,Call Drop / Poor Coverage,3
+344657,06-16-15,Call Drop / Poor Coverage,8
+364868,06-25-15,Slow Internet Speed,6
+369184,06-26-15,SIM Activation Delay,12
+365648,06-25-15,Call Drop / Poor Coverage,4
+351497,06-19-15,SIM Activation Delay,11
+338674,06-13-15,Incorrect Tariff Charge,12
+315759,05-31-15,Billing Dispute,3
+296722,05-19-15,Call Drop / Poor Coverage,7
+315836,05-31-15,Network Outage,10
+291175,05-15-15,Billing Dispute,11
+319694,02-06-15,Call Drop / Poor Coverage,8
+364449,06-25-15,Network Outage,14
+275612,06-05-15,Network Outage,4
+281211,08-05-15,Call Drop / Poor Coverage,2
+363708,06-24-15,Billing Dispute,2
+365908,06-25-15,VAS Unauthorized Activation,3
+222882,07-04-15,Slow Internet Speed,13
+367435,06-26-15,Network Outage,2
+354805,06-21-15,Call Drop / Poor Coverage,10
+360640,06-24-15,VAS Unauthorized Activation,12
+312797,05-28-15,VAS Unauthorized Activation,7
+363674,06-24-15,VAS Unauthorized Activation,6
+363879,06-25-15,Incorrect Tariff Charge,7
+240793,04-17-15,Billing Dispute,6
+361453,06-24-15,Network Outage,13
+256173,04-24-15,Call Drop / Poor Coverage,3
+290961,05-14-15,VAS Unauthorized Activation,4
+363786,06-25-15,Slow Internet Speed,5
+359991,06-23-15,Slow Internet Speed,11
+370823,06-28-15,Porting / MNP Issue,2
+359462,06-23-15,VAS Unauthorized Activation,4
+249470,04-22-15,Slow Internet Speed,9
+243193,04-18-15,Network Outage,10
+266179,04-30-15,Billing Dispute,10
+286301,12-05-15,Billing Dispute,12
+286302,12-05-15,Call Drop / Poor Coverage,10
+291730,05-15-15,Slow Internet Speed,5
+304483,05-23-15,SIM Activation Delay,13
+358336,06-23-15,Slow Internet Speed,12
+363716,06-24-15,Porting / MNP Issue,1
+364369,06-25-15,SIM Activation Delay,14
+360826,06-24-15,Porting / MNP Issue,14
+315602,05-31-15,VAS Unauthorized Activation,11
+342613,06-16-15,VAS Unauthorized Activation,5
+350740,06-18-15,Call Drop / Poor Coverage,4
+319816,02-06-15,Porting / MNP Issue,9
+346686,06-17-15,Call Drop / Poor Coverage,10
+358340,06-23-15,Network Outage,9
+364765,06-25-15,Slow Internet Speed,4
+266217,04-30-15,SIM Activation Delay,12
+361326,06-24-15,SIM Activation Delay,7
+375039,06-30-15,Call Drop / Poor Coverage,5
+281647,09-05-15,Slow Internet Speed,11
+229552,10-04-15,Billing Dispute,1
+280454,08-05-15,SIM Activation Delay,13
+244215,04-20-15,Billing Dispute,13
+342774,06-16-15,Slow Internet Speed,4
+317954,01-06-15,Billing Dispute,8
+334864,11-06-15,Network Outage,7
+214213,02-04-15,Porting / MNP Issue,2
+356818,06-22-15,VAS Unauthorized Activation,4
+359812,06-23-15,VAS Unauthorized Activation,8
+239964,04-16-15,Call Drop / Poor Coverage,11
+313367,05-29-15,Network Outage,10
+225770,09-04-15,SIM Activation Delay,2
+333020,10-06-15,Call Drop / Poor Coverage,9
+350675,06-18-15,Call Drop / Poor Coverage,1
+360281,06-23-15,VAS Unauthorized Activation,6
+333174,10-06-15,Slow Internet Speed,6
+245155,04-20-15,SIM Activation Delay,3
+314727,05-30-15,Call Drop / Poor Coverage,7
+356202,06-22-15,SIM Activation Delay,14
+358138,06-23-15,Porting / MNP Issue,14
+360818,06-24-15,Slow Internet Speed,10
+363811,06-25-15,SIM Activation Delay,7
+369588,06-27-15,Billing Dispute,6
+231927,04-13-15,Call Drop / Poor Coverage,9
+242888,04-18-15,Billing Dispute,11
+366894,06-25-15,Slow Internet Speed,3
+265094,04-29-15,Network Outage,13
+232276,04-13-15,Billing Dispute,8
+238647,04-16-15,Call Drop / Poor Coverage,13
+320644,03-06-15,Call Drop / Poor Coverage,2
+336872,12-06-15,VAS Unauthorized Activation,1
+340024,06-14-15,Slow Internet Speed,10
+252542,04-23-15,VAS Unauthorized Activation,2
+263410,04-29-15,Call Drop / Poor Coverage,1
+282159,09-05-15,Porting / MNP Issue,5
+376020,06-30-15,Call Drop / Poor Coverage,4
+270026,02-05-15,VAS Unauthorized Activation,1
+213506,02-04-15,VAS Unauthorized Activation,1
+212507,01-04-15,Slow Internet Speed,13
+283115,11-05-15,Network Outage,7
+288851,05-13-15,Porting / MNP Issue,9
+305720,05-25-15,Incorrect Tariff Charge,5
+331090,09-06-15,Call Drop / Poor Coverage,11
+350160,06-18-15,Network Outage,12
+371119,06-28-15,Slow Internet Speed,9
+350504,06-18-15,SIM Activation Delay,13
+345034,06-17-15,Network Outage,7
+290238,05-14-15,Call Drop / Poor Coverage,7
+362788,06-24-15,Network Outage,12
+362507,06-24-15,Billing Dispute,7
+361633,06-24-15,VAS Unauthorized Activation,2
+305399,05-24-15,VAS Unauthorized Activation,11
+358861,06-23-15,Call Drop / Poor Coverage,9
+358898,06-23-15,Billing Dispute,9
+240650,04-16-15,Porting / MNP Issue,10
+307364,05-26-15,VAS Unauthorized Activation,3
+349751,06-18-15,Slow Internet Speed,5
+358360,06-23-15,VAS Unauthorized Activation,2
+371463,06-29-15,Incorrect Tariff Charge,5
+342375,06-15-15,Porting / MNP Issue,2
+255922,04-24-15,Incorrect Tariff Charge,9
+366192,06-25-15,Incorrect Tariff Charge,4
+298980,05-20-15,Slow Internet Speed,13
+229103,10-04-15,Billing Dispute,3
+329036,08-06-15,Incorrect Tariff Charge,9
+338283,12-06-15,Porting / MNP Issue,6
+373954,06-30-15,VAS Unauthorized Activation,7
+231821,04-13-15,Call Drop / Poor Coverage,10
+345472,06-17-15,Porting / MNP Issue,11
+359714,06-23-15,Network Outage,13
+338412,12-06-15,VAS Unauthorized Activation,14
+360388,06-23-15,Slow Internet Speed,11
+234204,04-14-15,Incorrect Tariff Charge,11
+257446,04-25-15,Call Drop / Poor Coverage,11
+339095,06-13-15,Incorrect Tariff Charge,2
+282011,09-05-15,Slow Internet Speed,5
+342665,06-16-15,Porting / MNP Issue,12
+266403,04-30-15,Network Outage,7
+215802,03-04-15,VAS Unauthorized Activation,12
+331611,09-06-15,Porting / MNP Issue,14
+231199,12-04-15,Network Outage,4
+231200,12-04-15,SIM Activation Delay,1
+363615,06-24-15,Incorrect Tariff Charge,4
+297322,05-19-15,VAS Unauthorized Activation,2
+306807,05-26-15,VAS Unauthorized Activation,7
+360143,06-23-15,Network Outage,2
+360714,06-24-15,SIM Activation Delay,8
+215337,02-04-15,Call Drop / Poor Coverage,10
+213355,01-04-15,Billing Dispute,10
+367340,06-26-15,Call Drop / Poor Coverage,1
+340148,06-14-15,VAS Unauthorized Activation,5
+363920,06-25-15,VAS Unauthorized Activation,11
+362557,06-24-15,Slow Internet Speed,12
+228419,10-04-15,Network Outage,11
+239170,04-16-15,SIM Activation Delay,12
+223708,08-04-15,Billing Dispute,3
+253012,04-23-15,Call Drop / Poor Coverage,2
+341988,06-15-15,Network Outage,1
+339908,06-14-15,Porting / MNP Issue,12
+266456,04-30-15,Slow Internet Speed,3
+252504,04-23-15,SIM Activation Delay,12
+333437,10-06-15,Slow Internet Speed,1
+295997,05-18-15,VAS Unauthorized Activation,3
+225315,08-04-15,Slow Internet Speed,8
+343555,06-16-15,Billing Dispute,6
+224687,08-04-15,VAS Unauthorized Activation,9
+360665,06-24-15,Call Drop / Poor Coverage,9
+266833,04-30-15,Call Drop / Poor Coverage,13
+348580,06-18-15,Porting / MNP Issue,14
+226766,09-04-15,VAS Unauthorized Activation,12
+364523,06-25-15,VAS Unauthorized Activation,5
+372910,06-29-15,SIM Activation Delay,3
+360578,06-23-15,VAS Unauthorized Activation,6
+274464,05-05-15,Billing Dispute,3
+230174,10-04-15,Porting / MNP Issue,12
+231207,12-04-15,SIM Activation Delay,13
+241373,04-17-15,Billing Dispute,14
+246111,04-20-15,Slow Internet Speed,5
+330473,09-06-15,Call Drop / Poor Coverage,12
+281318,08-05-15,Porting / MNP Issue,2
+356497,06-22-15,Incorrect Tariff Charge,13
+360621,06-24-15,Call Drop / Poor Coverage,1
+253565,04-23-15,Network Outage,6
+360582,06-23-15,Call Drop / Poor Coverage,13
+224890,08-04-15,Call Drop / Poor Coverage,7
+339928,06-14-15,VAS Unauthorized Activation,5
+342068,06-15-15,Billing Dispute,9
+259223,04-27-15,VAS Unauthorized Activation,2
+360344,06-23-15,VAS Unauthorized Activation,5
+363273,06-24-15,Incorrect Tariff Charge,12
+359049,06-23-15,Incorrect Tariff Charge,10
+347018,06-17-15,Porting / MNP Issue,11
+361639,06-24-15,VAS Unauthorized Activation,2
+293326,05-16-15,Incorrect Tariff Charge,8
+356538,06-22-15,SIM Activation Delay,8
+375750,06-30-15,SIM Activation Delay,9
+238291,04-15-15,Porting / MNP Issue,6
+248207,04-21-15,SIM Activation Delay,1
+286995,05-13-15,Porting / MNP Issue,8
+308968,05-27-15,Network Outage,14
+360298,06-23-15,Incorrect Tariff Charge,10
+361840,06-24-15,VAS Unauthorized Activation,3
+361112,06-24-15,Porting / MNP Issue,6
+370392,06-27-15,Porting / MNP Issue,3
+294686,05-18-15,Billing Dispute,5
+373658,06-29-15,VAS Unauthorized Activation,13
+235196,04-14-15,Network Outage,2
+342417,06-15-15,Billing Dispute,10
+340359,06-15-15,Incorrect Tariff Charge,11
+342685,06-16-15,Slow Internet Speed,12
+306165,05-25-15,VAS Unauthorized Activation,2
+371221,06-28-15,Slow Internet Speed,4
+225777,09-04-15,VAS Unauthorized Activation,12
+225684,09-04-15,Network Outage,9
+298804,05-20-15,Billing Dispute,1
+228155,10-04-15,Porting / MNP Issue,1
+249245,04-21-15,Billing Dispute,14
+359219,06-23-15,Slow Internet Speed,14
+321631,03-06-15,VAS Unauthorized Activation,1
+357880,06-23-15,Call Drop / Poor Coverage,4
+340344,06-15-15,Incorrect Tariff Charge,1
+348204,06-18-15,Porting / MNP Issue,8
+228511,10-04-15,Slow Internet Speed,6
+228514,10-04-15,Incorrect Tariff Charge,7
+343049,06-16-15,Porting / MNP Issue,3
+359438,06-23-15,Incorrect Tariff Charge,3
+274483,05-05-15,VAS Unauthorized Activation,14
+350621,06-18-15,Network Outage,1
+361366,06-24-15,Slow Internet Speed,9
+366714,06-25-15,SIM Activation Delay,13
+359054,06-23-15,Call Drop / Poor Coverage,12
+233627,04-13-15,SIM Activation Delay,12
+278221,07-05-15,Slow Internet Speed,11
+278286,07-05-15,Porting / MNP Issue,7
+305865,05-25-15,Slow Internet Speed,4
+331835,09-06-15,Slow Internet Speed,6
+360555,06-23-15,VAS Unauthorized Activation,4
+232905,04-13-15,Billing Dispute,7
+305108,05-23-15,Call Drop / Poor Coverage,12
+262834,04-28-15,Network Outage,6
+272785,04-05-15,Network Outage,5
+369319,06-26-15,Incorrect Tariff Charge,14
+362852,06-24-15,Network Outage,2
+289924,05-14-15,Call Drop / Poor Coverage,10
+359979,06-23-15,Incorrect Tariff Charge,6
+231729,04-13-15,Incorrect Tariff Charge,2
+257575,04-26-15,Porting / MNP Issue,9
+228467,10-04-15,Billing Dispute,11
+235672,04-14-15,SIM Activation Delay,1
+254754,04-24-15,Porting / MNP Issue,3
+259151,04-27-15,Billing Dispute,4
+266346,04-30-15,Billing Dispute,13
+290828,05-14-15,Billing Dispute,9
+303252,05-22-15,Slow Internet Speed,1
+312890,05-29-15,Porting / MNP Issue,7
+315608,05-31-15,SIM Activation Delay,2
+322517,04-06-15,VAS Unauthorized Activation,8
+326349,05-06-15,Billing Dispute,14
+331890,09-06-15,SIM Activation Delay,5
+338384,12-06-15,VAS Unauthorized Activation,13
+348900,06-18-15,Call Drop / Poor Coverage,14
+357816,06-23-15,VAS Unauthorized Activation,5
+358688,06-23-15,Call Drop / Poor Coverage,6
+360673,06-24-15,Network Outage,2
+360698,06-24-15,VAS Unauthorized Activation,9
+360788,06-24-15,Call Drop / Poor Coverage,8
+360768,06-24-15,Billing Dispute,1
+363717,06-24-15,Slow Internet Speed,6
+367279,06-25-15,VAS Unauthorized Activation,4
+363809,06-25-15,Incorrect Tariff Charge,5
+366222,06-25-15,Call Drop / Poor Coverage,10
+366722,06-25-15,Porting / MNP Issue,13
+367079,06-25-15,Call Drop / Poor Coverage,5
+367936,06-26-15,VAS Unauthorized Activation,12
+370513,06-27-15,Call Drop / Poor Coverage,10
+372497,06-29-15,SIM Activation Delay,4
+375847,06-30-15,Porting / MNP Issue,8
+376328,06-30-15,VAS Unauthorized Activation,6
+367137,06-25-15,Slow Internet Speed,10
+362687,06-24-15,SIM Activation Delay,8
+339509,06-13-15,Porting / MNP Issue,13
+220424,06-04-15,Incorrect Tariff Charge,13
+305929,05-25-15,Call Drop / Poor Coverage,4
+324340,04-06-15,Call Drop / Poor Coverage,12
+327756,08-06-15,Network Outage,9
+347206,06-17-15,Porting / MNP Issue,13
+367390,06-26-15,Call Drop / Poor Coverage,13
+274968,05-05-15,Network Outage,4
+363353,06-24-15,Network Outage,3
+211904,01-04-15,VAS Unauthorized Activation,1
+278031,07-05-15,Call Drop / Poor Coverage,7
+293104,05-16-15,SIM Activation Delay,1
+361714,06-24-15,Incorrect Tariff Charge,4
+363900,06-25-15,SIM Activation Delay,9
+370142,06-27-15,SIM Activation Delay,6
+347695,06-17-15,Call Drop / Poor Coverage,11
+336545,12-06-15,Billing Dispute,14
+223149,08-04-15,Slow Internet Speed,12
+214960,02-04-15,Network Outage,1
+219813,06-04-15,Call Drop / Poor Coverage,6
+227123,09-04-15,VAS Unauthorized Activation,1
+234921,04-14-15,Network Outage,13
+267371,04-30-15,Incorrect Tariff Charge,11
+268877,01-05-15,Billing Dispute,7
+272382,04-05-15,Slow Internet Speed,14
+280018,08-05-15,Call Drop / Poor Coverage,12
+296536,05-19-15,Incorrect Tariff Charge,12
+307772,05-26-15,Porting / MNP Issue,5
+307782,05-26-15,Billing Dispute,2
+311036,05-28-15,SIM Activation Delay,4
+337985,12-06-15,Billing Dispute,9
+338719,06-13-15,Incorrect Tariff Charge,4
+342775,06-16-15,Call Drop / Poor Coverage,7
+353431,06-20-15,Billing Dispute,8
+359596,06-23-15,Call Drop / Poor Coverage,1
+361367,06-24-15,VAS Unauthorized Activation,3
+361001,06-24-15,Call Drop / Poor Coverage,12
+362921,06-24-15,Incorrect Tariff Charge,5
+372121,06-29-15,Slow Internet Speed,2
+339451,06-13-15,VAS Unauthorized Activation,1
+218509,05-04-15,Slow Internet Speed,4
+273473,05-05-15,Billing Dispute,14
+328701,08-06-15,SIM Activation Delay,9
+342492,06-15-15,Porting / MNP Issue,7
+367222,06-25-15,Incorrect Tariff Charge,12
+332137,10-06-15,Slow Internet Speed,6
+344623,06-16-15,Porting / MNP Issue,8
+348982,06-18-15,Network Outage,12
+357307,06-22-15,Call Drop / Poor Coverage,2
+370322,06-27-15,Slow Internet Speed,10
+326255,05-06-15,VAS Unauthorized Activation,2
+217474,03-04-15,Incorrect Tariff Charge,9
+223428,08-04-15,Call Drop / Poor Coverage,3
+225592,09-04-15,Porting / MNP Issue,11
+231989,04-13-15,Incorrect Tariff Charge,14
+232097,04-13-15,Slow Internet Speed,7
+236100,04-14-15,SIM Activation Delay,2
+244172,04-20-15,VAS Unauthorized Activation,10
+218221,04-04-15,Network Outage,10
+222146,07-04-15,Incorrect Tariff Charge,1
+240608,04-16-15,SIM Activation Delay,7
+243843,04-19-15,Slow Internet Speed,11
+246982,04-21-15,VAS Unauthorized Activation,3
+269604,01-05-15,Call Drop / Poor Coverage,4
+276082,06-05-15,Porting / MNP Issue,5
+279901,08-05-15,Slow Internet Speed,5
+282596,10-05-15,Billing Dispute,14
+282634,10-05-15,Network Outage,6
+294231,05-17-15,Network Outage,13
+323897,04-06-15,Call Drop / Poor Coverage,7
+338785,06-13-15,VAS Unauthorized Activation,12
+340436,06-15-15,Slow Internet Speed,14
+344131,06-16-15,Slow Internet Speed,12
+350578,06-18-15,SIM Activation Delay,6
+348935,06-18-15,Billing Dispute,6
+353640,06-20-15,Porting / MNP Issue,8
+362164,06-24-15,VAS Unauthorized Activation,5
+365879,06-25-15,Incorrect Tariff Charge,4
+367492,06-26-15,Porting / MNP Issue,2
+367614,06-26-15,Billing Dispute,4
+364634,06-25-15,Porting / MNP Issue,3
+324712,05-06-15,Slow Internet Speed,13
+291385,05-15-15,VAS Unauthorized Activation,13
+359166,06-23-15,Porting / MNP Issue,10
+222919,07-04-15,Call Drop / Poor Coverage,2
+299168,05-20-15,Network Outage,3
+317710,01-06-15,Incorrect Tariff Charge,2
+316966,01-06-15,SIM Activation Delay,3
+360381,06-23-15,VAS Unauthorized Activation,8
+360707,06-24-15,VAS Unauthorized Activation,8
+376274,06-30-15,SIM Activation Delay,6
+364296,06-25-15,Incorrect Tariff Charge,7
+241346,04-17-15,Slow Internet Speed,2
+241356,04-17-15,Incorrect Tariff Charge,9
+250420,04-22-15,Incorrect Tariff Charge,6
+278815,07-05-15,Network Outage,13
+354786,06-21-15,Porting / MNP Issue,4
+252644,04-23-15,Call Drop / Poor Coverage,8
+233792,04-14-15,SIM Activation Delay,5
+303352,05-22-15,Slow Internet Speed,8
+322898,04-06-15,VAS Unauthorized Activation,5
+345955,06-17-15,Slow Internet Speed,14
+294117,05-17-15,SIM Activation Delay,2
+223296,08-04-15,Network Outage,2
+266715,04-30-15,Network Outage,3
+337532,12-06-15,Incorrect Tariff Charge,13
+231757,04-13-15,SIM Activation Delay,11
+243779,04-19-15,Billing Dispute,5
+310893,05-28-15,SIM Activation Delay,14
+340479,06-15-15,Slow Internet Speed,12
+347357,06-17-15,SIM Activation Delay,12
+359284,06-23-15,SIM Activation Delay,10
+363608,06-24-15,SIM Activation Delay,1
+361000,06-24-15,Incorrect Tariff Charge,4
+370744,06-28-15,Billing Dispute,14
+360649,06-24-15,Network Outage,14
+320438,03-06-15,Call Drop / Poor Coverage,6
+360643,06-24-15,Billing Dispute,3
+281374,08-05-15,Billing Dispute,2
+291332,05-15-15,Call Drop / Poor Coverage,12
+321287,03-06-15,Billing Dispute,4
+329445,08-06-15,Slow Internet Speed,6
+359058,06-23-15,Network Outage,7
+361198,06-24-15,Billing Dispute,9
+362798,06-24-15,Network Outage,1
+361585,06-24-15,Incorrect Tariff Charge,11
+370771,06-28-15,SIM Activation Delay,5
+318260,02-06-15,Incorrect Tariff Charge,5
+255808,04-24-15,Network Outage,14
+218889,06-04-15,Billing Dispute,3
+371985,06-29-15,Call Drop / Poor Coverage,1
+263777,04-29-15,Network Outage,7
+279647,08-05-15,Billing Dispute,14
+239198,04-16-15,Porting / MNP Issue,8
+294305,05-18-15,Slow Internet Speed,9
+comcas,04-30-15,Slow Internet Speed,12
+263023,04-28-15,VAS Unauthorized Activation,9
+265465,04-29-15,VAS Unauthorized Activation,4
+267591,04-30-15,Incorrect Tariff Charge,2
+359715,06-23-15,Slow Internet Speed,8
+368974,06-26-15,VAS Unauthorized Activation,2
+371784,06-29-15,SIM Activation Delay,13
+344980,06-17-15,Network Outage,13
+229529,10-04-15,Call Drop / Poor Coverage,3
+230159,10-04-15,VAS Unauthorized Activation,2
+238581,04-16-15,Network Outage,1
+250437,04-22-15,Network Outage,1
+250811,04-22-15,VAS Unauthorized Activation,14
+251498,04-22-15,Porting / MNP Issue,13
+261845,04-28-15,Porting / MNP Issue,4
+273199,05-05-15,Slow Internet Speed,3
+283247,11-05-15,VAS Unauthorized Activation,4
+290536,05-14-15,VAS Unauthorized Activation,14
+290748,05-14-15,Slow Internet Speed,7
+290868,05-14-15,Slow Internet Speed,6
+294443,05-18-15,Incorrect Tariff Charge,11
+296767,05-19-15,Billing Dispute,11
+303933,05-22-15,Slow Internet Speed,11
+311234,05-28-15,Billing Dispute,2
+312049,05-28-15,Call Drop / Poor Coverage,10
+317905,01-06-15,Incorrect Tariff Charge,10
+336573,12-06-15,Porting / MNP Issue,5
+337290,12-06-15,Call Drop / Poor Coverage,14
+337481,12-06-15,VAS Unauthorized Activation,2
+336690,12-06-15,Porting / MNP Issue,1
+338930,06-13-15,Slow Internet Speed,2
+338970,06-13-15,Slow Internet Speed,4
+339321,06-13-15,SIM Activation Delay,11
+339351,06-13-15,Porting / MNP Issue,8
+339600,06-13-15,VAS Unauthorized Activation,13
+339770,06-14-15,SIM Activation Delay,3
+340029,06-14-15,Porting / MNP Issue,2
+342298,06-15-15,Incorrect Tariff Charge,14
+343023,06-16-15,VAS Unauthorized Activation,14
+348451,06-18-15,Porting / MNP Issue,13
+353784,06-20-15,Porting / MNP Issue,6
+360167,06-23-15,Slow Internet Speed,2
+360358,06-23-15,Incorrect Tariff Charge,1
+360742,06-24-15,Porting / MNP Issue,8
+368771,06-26-15,Incorrect Tariff Charge,1
+356498,06-22-15,Call Drop / Poor Coverage,3
+215483,02-04-15,Incorrect Tariff Charge,10
+326978,06-06-15,Billing Dispute,7
+366507,06-25-15,VAS Unauthorized Activation,14
+251408,04-22-15,Slow Internet Speed,12
+305358,05-24-15,Slow Internet Speed,7
+372351,06-29-15,Slow Internet Speed,8
+342487,06-15-15,Slow Internet Speed,1
+350930,06-19-15,Porting / MNP Issue,7
+317426,01-06-15,Slow Internet Speed,11
+258370,04-27-15,Incorrect Tariff Charge,7
+301352,05-21-15,Billing Dispute,3
+349083,06-18-15,Network Outage,6
+272570,04-05-15,Incorrect Tariff Charge,4
+322200,03-06-15,Slow Internet Speed,3
+359672,06-23-15,Porting / MNP Issue,5
+370657,06-27-15,Incorrect Tariff Charge,5
+375292,06-30-15,Porting / MNP Issue,8
+360760,06-24-15,Network Outage,3
+224907,08-04-15,Call Drop / Poor Coverage,1
+327394,07-06-15,Call Drop / Poor Coverage,10
+359952,06-23-15,Incorrect Tariff Charge,10
+217488,03-04-15,Slow Internet Speed,10
+254865,04-24-15,SIM Activation Delay,4
+287152,05-13-15,Billing Dispute,11
+360633,06-24-15,VAS Unauthorized Activation,5
+360805,06-24-15,SIM Activation Delay,8
+368658,06-26-15,Slow Internet Speed,7
+268345,01-05-15,Incorrect Tariff Charge,9
+281869,09-05-15,Incorrect Tariff Charge,8
+290320,05-14-15,Slow Internet Speed,1
+323021,04-06-15,Call Drop / Poor Coverage,2
+371411,06-29-15,SIM Activation Delay,5
+270736,03-05-15,Porting / MNP Issue,7
+334003,10-06-15,Network Outage,3
+312662,05-28-15,Call Drop / Poor Coverage,7
+361873,06-24-15,Network Outage,4
+375959,06-30-15,Billing Dispute,11
+262831,04-28-15,Call Drop / Poor Coverage,13
+328006,08-06-15,Call Drop / Poor Coverage,9
+351933,06-19-15,Incorrect Tariff Charge,4
+228320,10-04-15,Incorrect Tariff Charge,11
+289071,05-14-15,Network Outage,13
+372425,06-29-15,Billing Dispute,9
+277366,06-05-15,Billing Dispute,13
+370440,06-27-15,Porting / MNP Issue,1
+360320,06-23-15,Slow Internet Speed,7
+358703,06-23-15,Billing Dispute,13
+362928,06-24-15,Network Outage,12
+260336,04-27-15,Slow Internet Speed,6
+233974,04-14-15,SIM Activation Delay,8
+299683,05-20-15,Porting / MNP Issue,9
+360791,06-24-15,Porting / MNP Issue,13
+347557,06-17-15,VAS Unauthorized Activation,8
+222075,07-04-15,Incorrect Tariff Charge,6
+332408,10-06-15,Billing Dispute,10
+327786,08-06-15,Incorrect Tariff Charge,9
+362485,06-24-15,Call Drop / Poor Coverage,6
+360828,06-24-15,Incorrect Tariff Charge,7
+374157,06-30-15,Slow Internet Speed,5
+218049,04-04-15,Network Outage,3
+344415,06-16-15,Billing Dispute,1
+341950,06-15-15,Billing Dispute,6
+360235,06-23-15,Network Outage,10
+368198,06-26-15,Slow Internet Speed,4
+256913,04-25-15,Call Drop / Poor Coverage,1
+360550,06-23-15,VAS Unauthorized Activation,13
+221665,07-04-15,Porting / MNP Issue,13
+263720,04-29-15,VAS Unauthorized Activation,5
+312637,05-28-15,VAS Unauthorized Activation,1
+354540,06-21-15,Porting / MNP Issue,13
+372723,06-29-15,Call Drop / Poor Coverage,8
+274026,05-05-15,SIM Activation Delay,9
+359868,06-23-15,Slow Internet Speed,6
+362556,06-24-15,Incorrect Tariff Charge,13
+361742,06-24-15,Porting / MNP Issue,10
+338149,12-06-15,Slow Internet Speed,4
+369960,06-27-15,Call Drop / Poor Coverage,3
+231375,12-04-15,VAS Unauthorized Activation,2
+213817,02-04-15,Call Drop / Poor Coverage,4
+374291,06-30-15,Network Outage,11
+211472,01-04-15,SIM Activation Delay,4
+231374,12-04-15,Porting / MNP Issue,5
+344348,06-16-15,Network Outage,9
+352012,06-19-15,Network Outage,14
+366778,06-25-15,SIM Activation Delay,13
+291331,05-15-15,Call Drop / Poor Coverage,12
+316040,05-31-15,SIM Activation Delay,1
+351393,06-19-15,Billing Dispute,13
+361105,06-24-15,Call Drop / Poor Coverage,4
+324702,05-06-15,Call Drop / Poor Coverage,10
+362024,06-24-15,Incorrect Tariff Charge,14
+361528,06-24-15,Slow Internet Speed,13
+352951,06-19-15,Network Outage,7
+272972,04-05-15,VAS Unauthorized Activation,6
+367365,06-26-15,Porting / MNP Issue,14
+367949,06-26-15,Billing Dispute,14
+375794,06-30-15,Billing Dispute,3
+370484,06-27-15,Porting / MNP Issue,3
+305856,05-25-15,SIM Activation Delay,4
+362020,06-24-15,Incorrect Tariff Charge,10
+333846,10-06-15,Slow Internet Speed,6
+340455,06-15-15,Porting / MNP Issue,13
+339012,06-13-15,Network Outage,12
+349588,06-18-15,Porting / MNP Issue,12
+374749,06-30-15,Network Outage,6
+370293,06-27-15,VAS Unauthorized Activation,10
+227906,09-04-15,Slow Internet Speed,1
+333248,10-06-15,Incorrect Tariff Charge,12
+371924,06-29-15,Porting / MNP Issue,12
+300802,05-21-15,Porting / MNP Issue,6
+361078,06-24-15,Porting / MNP Issue,10
+300500,05-20-15,Call Drop / Poor Coverage,10
+340564,06-15-15,Slow Internet Speed,3
+324188,04-06-15,Porting / MNP Issue,10
+359823,06-23-15,Network Outage,4
+365166,06-25-15,Incorrect Tariff Charge,14
+371299,06-28-15,Billing Dispute,13
+270663,03-05-15,VAS Unauthorized Activation,8
+244436,04-20-15,Incorrect Tariff Charge,9
+302448,05-21-15,Slow Internet Speed,5
+361007,06-24-15,Porting / MNP Issue,3
+234680,04-14-15,Slow Internet Speed,8
+363966,06-25-15,SIM Activation Delay,1
+259629,04-27-15,Porting / MNP Issue,2
+221175,07-04-15,Porting / MNP Issue,1
+360185,06-23-15,Slow Internet Speed,4
+220948,07-04-15,Porting / MNP Issue,10
+264114,04-29-15,Call Drop / Poor Coverage,4
+286994,05-13-15,Incorrect Tariff Charge,1
+292968,05-16-15,SIM Activation Delay,9
+293411,05-16-15,Incorrect Tariff Charge,8
+295614,05-18-15,Billing Dispute,1
+316247,01-06-15,Slow Internet Speed,6
+326514,06-06-15,Slow Internet Speed,10
+329684,08-06-15,SIM Activation Delay,4
+354546,06-21-15,Incorrect Tariff Charge,13
+358050,06-23-15,Incorrect Tariff Charge,3
+362909,06-24-15,Billing Dispute,6
+366944,06-25-15,SIM Activation Delay,12
+367546,06-26-15,Slow Internet Speed,3
+368500,06-26-15,Billing Dispute,13
+371385,06-28-15,Call Drop / Poor Coverage,14
+318574,02-06-15,SIM Activation Delay,14
+359592,06-23-15,Billing Dispute,6
+281940,09-05-15,Billing Dispute,1
+367321,06-26-15,Slow Internet Speed,1
+224222,08-04-15,Billing Dispute,3
+218696,05-04-15,VAS Unauthorized Activation,10
+249355,04-22-15,VAS Unauthorized Activation,12
+337071,12-06-15,VAS Unauthorized Activation,3
+236299,04-15-15,Incorrect Tariff Charge,13
+340647,06-15-15,Incorrect Tariff Charge,2
+372859,06-29-15,Billing Dispute,14
+291044,05-14-15,VAS Unauthorized Activation,9
+246635,04-21-15,Slow Internet Speed,14
+306219,05-25-15,VAS Unauthorized Activation,6
+328801,08-06-15,VAS Unauthorized Activation,2
+211775,01-04-15,Call Drop / Poor Coverage,6
+316927,01-06-15,Call Drop / Poor Coverage,12
+335859,11-06-15,Network Outage,11
+337869,12-06-15,Incorrect Tariff Charge,7
+334514,11-06-15,Slow Internet Speed,10
+215077,02-04-15,Call Drop / Poor Coverage,2
+243364,04-18-15,VAS Unauthorized Activation,6
+252934,04-23-15,VAS Unauthorized Activation,5
+265590,04-29-15,Network Outage,6
+270239,02-05-15,Network Outage,3
+270240,02-05-15,Incorrect Tariff Charge,3
+304454,05-23-15,Call Drop / Poor Coverage,12
+325445,05-06-15,Slow Internet Speed,7
+333786,10-06-15,Slow Internet Speed,13
+353177,06-19-15,Porting / MNP Issue,11
+363094,06-24-15,VAS Unauthorized Activation,8
+361037,06-24-15,Network Outage,11
+375276,06-30-15,VAS Unauthorized Activation,6
+214998,02-04-15,SIM Activation Delay,3
+358746,06-23-15,Incorrect Tariff Charge,12
+365162,06-25-15,VAS Unauthorized Activation,9
+372223,06-29-15,Billing Dispute,12
+357976,06-23-15,Network Outage,10
+351053,06-19-15,VAS Unauthorized Activation,13
+230370,11-04-15,Slow Internet Speed,6
+239218,04-16-15,Incorrect Tariff Charge,4
+240653,04-16-15,Slow Internet Speed,11
+215922,03-04-15,Billing Dispute,10
+263934,04-29-15,Network Outage,14
+265456,04-29-15,SIM Activation Delay,3
+279363,07-05-15,VAS Unauthorized Activation,7
+282265,09-05-15,VAS Unauthorized Activation,5
+282025,09-05-15,Billing Dispute,12
+291461,05-15-15,Incorrect Tariff Charge,12
+293037,05-16-15,Incorrect Tariff Charge,5
+293038,05-16-15,Call Drop / Poor Coverage,3
+301242,05-21-15,Porting / MNP Issue,3
+320355,03-06-15,Porting / MNP Issue,12
+320369,03-06-15,Incorrect Tariff Charge,1
+340521,06-15-15,Network Outage,12
+352345,06-19-15,Incorrect Tariff Charge,10
+356421,06-22-15,Slow Internet Speed,7
+363477,06-24-15,Incorrect Tariff Charge,14
+365368,06-25-15,Slow Internet Speed,13
+367258,06-25-15,Porting / MNP Issue,10
+369434,06-26-15,Call Drop / Poor Coverage,1
+365082,06-25-15,Call Drop / Poor Coverage,3
+355079,06-22-15,Billing Dispute,10
+262747,04-28-15,Incorrect Tariff Charge,6
+223841,08-04-15,Slow Internet Speed,13
+359483,06-23-15,Billing Dispute,10
+268773,01-05-15,Incorrect Tariff Charge,4
+360989,06-24-15,Call Drop / Poor Coverage,11
+238264,04-15-15,Porting / MNP Issue,10
+277544,07-05-15,Billing Dispute,2
+359345,06-23-15,Slow Internet Speed,8
+221961,07-04-15,Call Drop / Poor Coverage,3
+335917,11-06-15,Porting / MNP Issue,6
+353068,06-19-15,Incorrect Tariff Charge,12
+333619,10-06-15,Billing Dispute,2
+362974,06-24-15,Slow Internet Speed,4
+362991,06-24-15,Porting / MNP Issue,6
+361800,06-24-15,Incorrect Tariff Charge,6
+325690,05-06-15,Network Outage,3
+282824,11-05-15,Incorrect Tariff Charge,11
+358736,06-23-15,Call Drop / Poor Coverage,2
+366782,06-25-15,Billing Dispute,14
+248414,04-21-15,SIM Activation Delay,12
+271592,04-05-15,Incorrect Tariff Charge,11
+338831,06-13-15,VAS Unauthorized Activation,11
+353876,06-20-15,SIM Activation Delay,12
+251622,04-23-15,SIM Activation Delay,6
+336981,12-06-15,Billing Dispute,8
+362644,06-24-15,Billing Dispute,1
+366339,06-25-15,Slow Internet Speed,5
+233894,04-14-15,Call Drop / Poor Coverage,4
+283148,11-05-15,Slow Internet Speed,4
+354707,06-21-15,Network Outage,12
+248868,04-21-15,Incorrect Tariff Charge,2
+241769,04-17-15,Billing Dispute,6
+361187,06-24-15,Porting / MNP Issue,5
+367035,06-25-15,Billing Dispute,13
+365393,06-25-15,Billing Dispute,2
+326658,06-06-15,Billing Dispute,12
+318059,01-06-15,Billing Dispute,1
+293497,05-16-15,VAS Unauthorized Activation,1
+334592,11-06-15,Network Outage,7
+219305,06-04-15,Porting / MNP Issue,8
+329291,08-06-15,Incorrect Tariff Charge,12
+359082,06-23-15,SIM Activation Delay,7
+361310,06-24-15,VAS Unauthorized Activation,3
+292335,05-15-15,Call Drop / Poor Coverage,7
+370929,06-28-15,VAS Unauthorized Activation,8
+244444,04-20-15,SIM Activation Delay,7
+367029,06-25-15,SIM Activation Delay,6
+222424,07-04-15,Call Drop / Poor Coverage,9
+225582,08-04-15,VAS Unauthorized Activation,7
+289584,05-14-15,SIM Activation Delay,2
+298788,05-20-15,Incorrect Tariff Charge,14
+298793,05-20-15,VAS Unauthorized Activation,8
+360730,06-24-15,VAS Unauthorized Activation,13
+245317,04-20-15,Call Drop / Poor Coverage,14
+367099,06-25-15,Porting / MNP Issue,10
+270193,02-05-15,Porting / MNP Issue,11
+300720,05-21-15,Billing Dispute,13
+358657,06-23-15,SIM Activation Delay,11
+311889,05-28-15,Billing Dispute,4
+219795,06-04-15,Call Drop / Poor Coverage,3
+257803,04-26-15,Network Outage,8
+265613,04-29-15,VAS Unauthorized Activation,2
+336745,12-06-15,Incorrect Tariff Charge,13
+260732,04-28-15,Slow Internet Speed,14
+240017,04-16-15,Slow Internet Speed,1
+312724,05-28-15,Call Drop / Poor Coverage,5
+315373,05-30-15,Slow Internet Speed,1
+318304,02-06-15,Billing Dispute,6
+326309,05-06-15,Call Drop / Poor Coverage,5
+354336,06-20-15,VAS Unauthorized Activation,2
+357373,06-23-15,Billing Dispute,2
+373211,06-29-15,Porting / MNP Issue,6
+360476,06-23-15,Slow Internet Speed,3
+330284,09-06-15,SIM Activation Delay,7
+315456,05-30-15,VAS Unauthorized Activation,3
+299334,05-20-15,Incorrect Tariff Charge,12
+244072,04-20-15,Network Outage,2
+260444,04-27-15,Porting / MNP Issue,9
+338510,12-06-15,Network Outage,2
+364033,06-25-15,Porting / MNP Issue,6
+352201,06-19-15,Incorrect Tariff Charge,10
+363200,06-24-15,SIM Activation Delay,10
+253407,04-23-15,Porting / MNP Issue,8
+218000,04-04-15,Slow Internet Speed,12
+342174,06-15-15,Incorrect Tariff Charge,1
+224670,08-04-15,SIM Activation Delay,7
+227819,09-04-15,Network Outage,11
+234527,04-14-15,Incorrect Tariff Charge,3
+223053,07-04-15,Slow Internet Speed,10
+257986,04-26-15,Incorrect Tariff Charge,7
+309173,05-27-15,Billing Dispute,3
+324913,05-06-15,Billing Dispute,1
+334798,11-06-15,Network Outage,2
+349460,06-18-15,Call Drop / Poor Coverage,6
+217806,04-04-15,VAS Unauthorized Activation,4
+224049,08-04-15,Billing Dispute,4
+237368,04-15-15,VAS Unauthorized Activation,7
+243615,04-19-15,VAS Unauthorized Activation,12
+273991,05-05-15,Network Outage,9
+293999,05-17-15,Slow Internet Speed,12
+294329,05-18-15,Network Outage,12
+306848,05-26-15,Call Drop / Poor Coverage,9
+325552,05-06-15,SIM Activation Delay,5
+337027,12-06-15,Billing Dispute,11
+341949,06-15-15,Porting / MNP Issue,5
+345677,06-17-15,Slow Internet Speed,5
+347734,06-18-15,Call Drop / Poor Coverage,4
+355447,06-22-15,SIM Activation Delay,2
+360239,06-23-15,Call Drop / Poor Coverage,1
+358345,06-23-15,Slow Internet Speed,7
+363629,06-24-15,Network Outage,10
+360837,06-24-15,SIM Activation Delay,9
+362276,06-24-15,Porting / MNP Issue,14
+362982,06-24-15,VAS Unauthorized Activation,8
+368055,06-26-15,Slow Internet Speed,3
+376303,06-30-15,Slow Internet Speed,1
+293734,05-16-15,VAS Unauthorized Activation,6
+245435,04-20-15,Network Outage,1
+289153,05-14-15,SIM Activation Delay,7
+337555,12-06-15,Billing Dispute,2
+257189,04-25-15,Call Drop / Poor Coverage,5
+256792,04-25-15,Porting / MNP Issue,14
+352910,06-19-15,Network Outage,11
+352186,06-19-15,Incorrect Tariff Charge,11
+260134,04-27-15,SIM Activation Delay,10
+212228,01-04-15,Porting / MNP Issue,8
+358644,06-23-15,Billing Dispute,4
+337000,12-06-15,Slow Internet Speed,2
+360928,06-24-15,Incorrect Tariff Charge,1
+267727,04-30-15,Slow Internet Speed,4
+212595,01-04-15,Network Outage,3
+218108,04-04-15,Porting / MNP Issue,11
+234888,04-14-15,VAS Unauthorized Activation,5
+353376,06-19-15,Network Outage,2
+337050,12-06-15,Porting / MNP Issue,8
+340657,06-15-15,Incorrect Tariff Charge,14
+375155,06-30-15,Call Drop / Poor Coverage,2
+370502,06-27-15,Network Outage,5
+250239,04-22-15,Incorrect Tariff Charge,13
+370575,06-27-15,Slow Internet Speed,7
+329597,08-06-15,Incorrect Tariff Charge,8
+270762,03-05-15,SIM Activation Delay,8
+313043,05-29-15,Slow Internet Speed,11
+358157,06-23-15,Incorrect Tariff Charge,5
+369686,06-27-15,Billing Dispute,2
+211478,01-04-15,Network Outage,11
+337767,12-06-15,Incorrect Tariff Charge,9
+305998,05-25-15,Incorrect Tariff Charge,7
+224074,08-04-15,Billing Dispute,3
+373161,06-29-15,VAS Unauthorized Activation,6
+309939,05-27-15,VAS Unauthorized Activation,7
+295439,05-18-15,Billing Dispute,6
+228818,10-04-15,Billing Dispute,3
+334975,11-06-15,Slow Internet Speed,8
+365088,06-25-15,VAS Unauthorized Activation,1
+226989,09-04-15,Network Outage,5
+231122,12-04-15,Call Drop / Poor Coverage,8
+360296,06-23-15,SIM Activation Delay,8
+281553,09-05-15,Network Outage,5
+305260,05-24-15,SIM Activation Delay,4
+307912,05-26-15,Network Outage,14
+316495,01-06-15,Incorrect Tariff Charge,5
+363554,06-24-15,Call Drop / Poor Coverage,10
+361503,06-24-15,Porting / MNP Issue,1
+257680,04-26-15,VAS Unauthorized Activation,3
+363533,06-24-15,Call Drop / Poor Coverage,13
+225624,09-04-15,Network Outage,12
+308616,05-27-15,SIM Activation Delay,11
+326074,05-06-15,Call Drop / Poor Coverage,2
+337953,12-06-15,Incorrect Tariff Charge,2
+338270,12-06-15,Network Outage,11
+339206,06-13-15,Incorrect Tariff Charge,6
+339936,06-14-15,Call Drop / Poor Coverage,13
+344269,06-16-15,Slow Internet Speed,9
+360338,06-23-15,Incorrect Tariff Charge,7
+363044,06-24-15,Porting / MNP Issue,13
+295447,05-18-15,Porting / MNP Issue,10
+365565,06-25-15,VAS Unauthorized Activation,4
+222212,07-04-15,Porting / MNP Issue,9
+319428,02-06-15,Incorrect Tariff Charge,1
+305229,05-24-15,Billing Dispute,14
+250828,04-22-15,VAS Unauthorized Activation,7
+360680,06-24-15,VAS Unauthorized Activation,14
+330392,09-06-15,Incorrect Tariff Charge,9
+224243,08-04-15,Call Drop / Poor Coverage,7
+284592,11-05-15,Slow Internet Speed,9
+329737,09-06-15,Porting / MNP Issue,11
+367256,06-25-15,Slow Internet Speed,14
+371075,06-28-15,Porting / MNP Issue,8
+224932,08-04-15,Billing Dispute,10
+224605,08-04-15,Call Drop / Poor Coverage,4
+337209,12-06-15,Incorrect Tariff Charge,8
+350252,06-18-15,Slow Internet Speed,5
+350931,06-19-15,Slow Internet Speed,2
+358592,06-23-15,Incorrect Tariff Charge,7
+363610,06-24-15,Call Drop / Poor Coverage,14
+370168,06-27-15,Call Drop / Poor Coverage,12
+272794,04-05-15,VAS Unauthorized Activation,1
+217985,04-04-15,Porting / MNP Issue,9
+357126,06-22-15,Billing Dispute,10
+359697,06-23-15,VAS Unauthorized Activation,9
+226150,09-04-15,Incorrect Tariff Charge,13
+300869,05-21-15,VAS Unauthorized Activation,10
+359803,06-23-15,Network Outage,11
+346047,06-17-15,Incorrect Tariff Charge,10
+246213,04-20-15,Porting / MNP Issue,3
+225791,09-04-15,Call Drop / Poor Coverage,2
+296660,05-19-15,Network Outage,13
+335204,11-06-15,Slow Internet Speed,8
+294812,05-18-15,Porting / MNP Issue,3
+358836,06-23-15,Incorrect Tariff Charge,3
+345351,06-17-15,Billing Dispute,4
+251736,04-23-15,Network Outage,13
+293051,05-16-15,Billing Dispute,4
+359239,06-23-15,VAS Unauthorized Activation,3
+371160,06-28-15,Network Outage,1
+358772,06-23-15,Billing Dispute,7
+358707,06-23-15,Slow Internet Speed,2
+244230,04-20-15,SIM Activation Delay,11
+251802,04-23-15,Incorrect Tariff Charge,7
+301499,05-21-15,Incorrect Tariff Charge,4
+326788,06-06-15,Porting / MNP Issue,14
+360595,06-24-15,Network Outage,11
+335844,11-06-15,Billing Dispute,3
+214664,02-04-15,VAS Unauthorized Activation,14
+243742,04-19-15,Incorrect Tariff Charge,10
+339241,06-13-15,Incorrect Tariff Charge,5
+300119,05-20-15,VAS Unauthorized Activation,6
+226539,09-04-15,Slow Internet Speed,12
+362807,06-24-15,Billing Dispute,13
+362820,06-24-15,Incorrect Tariff Charge,2
+360349,06-23-15,Porting / MNP Issue,2
+298618,05-20-15,Incorrect Tariff Charge,7
+315865,05-31-15,Call Drop / Poor Coverage,9
+214079,02-04-15,SIM Activation Delay,7
+339017,06-13-15,Slow Internet Speed,9
+341442,06-15-15,Network Outage,6
+354431,06-21-15,Billing Dispute,14
+356720,06-22-15,VAS Unauthorized Activation,5
+215830,03-04-15,Porting / MNP Issue,9
+360771,06-24-15,Slow Internet Speed,8
+243166,04-18-15,Call Drop / Poor Coverage,14
+309754,05-27-15,Call Drop / Poor Coverage,1
+225735,09-04-15,VAS Unauthorized Activation,13
+300472,05-20-15,SIM Activation Delay,12
+324988,05-06-15,Call Drop / Poor Coverage,10
+338830,06-13-15,VAS Unauthorized Activation,10
+361391,06-24-15,SIM Activation Delay,9
+365061,06-25-15,Slow Internet Speed,13
+213735,02-04-15,Billing Dispute,7
+263884,04-29-15,Slow Internet Speed,2
+212079,01-04-15,VAS Unauthorized Activation,7
+212701,01-04-15,Billing Dispute,3
+264664,04-29-15,VAS Unauthorized Activation,3
+273392,05-05-15,Slow Internet Speed,10
+281631,09-05-15,Incorrect Tariff Charge,10
+312204,05-28-15,Incorrect Tariff Charge,10
+319019,02-06-15,Slow Internet Speed,13
+325903,05-06-15,Call Drop / Poor Coverage,2
+326369,05-06-15,Call Drop / Poor Coverage,2
+326570,06-06-15,Billing Dispute,10
+333951,10-06-15,Billing Dispute,13
+331921,10-06-15,Incorrect Tariff Charge,2
+333086,10-06-15,SIM Activation Delay,13
+343874,06-16-15,Slow Internet Speed,5
+346005,06-17-15,SIM Activation Delay,14
+347054,06-17-15,Billing Dispute,9
+354027,06-20-15,SIM Activation Delay,6
+360405,06-23-15,VAS Unauthorized Activation,7
+362208,06-24-15,Network Outage,5
+363147,06-24-15,Incorrect Tariff Charge,7
+369527,06-26-15,Incorrect Tariff Charge,11
+373795,06-29-15,VAS Unauthorized Activation,8
+374002,06-30-15,Billing Dispute,10
+290941,05-14-15,Slow Internet Speed,10
+272020,04-05-15,Slow Internet Speed,8
+365068,06-25-15,Call Drop / Poor Coverage,1
+214948,02-04-15,Porting / MNP Issue,3
+214952,02-04-15,VAS Unauthorized Activation,5
+233656,04-13-15,Porting / MNP Issue,7
+233422,04-13-15,Porting / MNP Issue,3
+321302,03-06-15,Slow Internet Speed,10
+360149,06-23-15,Billing Dispute,10
+360394,06-23-15,Incorrect Tariff Charge,11
+360348,06-23-15,Slow Internet Speed,12
+364134,06-25-15,VAS Unauthorized Activation,7
+373203,06-29-15,VAS Unauthorized Activation,1
+372830,06-29-15,Incorrect Tariff Charge,7
+374131,06-30-15,Billing Dispute,6
+258748,04-27-15,Billing Dispute,12
+320484,03-06-15,Billing Dispute,4
+224912,08-04-15,Porting / MNP Issue,1
+323616,04-06-15,Network Outage,12
+330481,09-06-15,Slow Internet Speed,8
+356971,06-22-15,Billing Dispute,5
+213665,02-04-15,Call Drop / Poor Coverage,6
+218057,04-04-15,Billing Dispute,1
+281634,09-05-15,Billing Dispute,6
+313324,05-29-15,Incorrect Tariff Charge,14
+252312,04-23-15,SIM Activation Delay,13
+267413,04-30-15,Incorrect Tariff Charge,5
+360170,06-23-15,Call Drop / Poor Coverage,5
+216947,03-04-15,Slow Internet Speed,5
+301470,05-21-15,Call Drop / Poor Coverage,14
+335960,11-06-15,SIM Activation Delay,8
+332047,10-06-15,Call Drop / Poor Coverage,14
+339985,06-14-15,Billing Dispute,12
+357898,06-23-15,Call Drop / Poor Coverage,11
+360397,06-23-15,Slow Internet Speed,2
+360290,06-23-15,Billing Dispute,14
+299364,05-20-15,Billing Dispute,4
+304543,05-23-15,Billing Dispute,3
+324059,04-06-15,Incorrect Tariff Charge,5
+327358,07-06-15,Network Outage,12
+358992,06-23-15,Network Outage,8
+373882,06-30-15,Slow Internet Speed,13
+330109,09-06-15,Network Outage,14
+337691,12-06-15,Call Drop / Poor Coverage,6
+371309,06-28-15,SIM Activation Delay,5
+291155,05-14-15,Porting / MNP Issue,12
+357139,06-22-15,Network Outage,7
+334196,11-06-15,VAS Unauthorized Activation,10
+319491,02-06-15,Call Drop / Poor Coverage,11
+307604,05-26-15,Call Drop / Poor Coverage,2
+232040,04-13-15,VAS Unauthorized Activation,4
+240905,04-17-15,SIM Activation Delay,8
+317888,01-06-15,Porting / MNP Issue,4
+255867,04-24-15,Call Drop / Poor Coverage,14
+214498,02-04-15,VAS Unauthorized Activation,7
+243904,04-19-15,Slow Internet Speed,12
+253872,04-23-15,Network Outage,8
+287805,05-13-15,Billing Dispute,13
+303539,05-22-15,VAS Unauthorized Activation,9
+310722,05-28-15,Porting / MNP Issue,14
+310714,05-28-15,VAS Unauthorized Activation,6
+322226,03-06-15,VAS Unauthorized Activation,14
+331755,09-06-15,SIM Activation Delay,1
+347742,06-18-15,Incorrect Tariff Charge,9
+359828,06-23-15,Billing Dispute,13
+360020,06-23-15,Incorrect Tariff Charge,3
+360155,06-23-15,Incorrect Tariff Charge,2
+366906,06-25-15,Incorrect Tariff Charge,5
+367326,06-26-15,Porting / MNP Issue,12
+375583,06-30-15,Billing Dispute,9
+251236,04-22-15,Incorrect Tariff Charge,7
+214443,02-04-15,Slow Internet Speed,3
+294317,05-18-15,Incorrect Tariff Charge,13
+229794,10-04-15,SIM Activation Delay,14
+264875,04-29-15,VAS Unauthorized Activation,9
+214665,02-04-15,Slow Internet Speed,10
+314814,05-30-15,Call Drop / Poor Coverage,1
+330062,09-06-15,VAS Unauthorized Activation,3
+336624,12-06-15,SIM Activation Delay,4
+347688,06-17-15,Billing Dispute,14
+361151,06-24-15,Slow Internet Speed,4
+372230,06-29-15,Network Outage,14
+360688,06-24-15,Call Drop / Poor Coverage,1
+238990,04-16-15,Porting / MNP Issue,4
+263143,04-28-15,Porting / MNP Issue,1
+361682,06-24-15,SIM Activation Delay,8
+223816,08-04-15,Billing Dispute,1
+360504,06-23-15,Incorrect Tariff Charge,6
+362454,06-24-15,Incorrect Tariff Charge,12
+370107,06-27-15,SIM Activation Delay,4
+369648,06-27-15,Billing Dispute,5
+308646,05-27-15,VAS Unauthorized Activation,6
+308439,05-26-15,VAS Unauthorized Activation,14
+372741,06-29-15,VAS Unauthorized Activation,8
+245893,04-20-15,Call Drop / Poor Coverage,9
+358902,06-23-15,VAS Unauthorized Activation,7
+249712,04-22-15,Network Outage,11
+240942,04-17-15,Slow Internet Speed,2
+257323,04-25-15,Porting / MNP Issue,11
+337972,12-06-15,VAS Unauthorized Activation,1
+362298,06-24-15,SIM Activation Delay,4
+353018,06-19-15,SIM Activation Delay,6
+347829,06-18-15,Incorrect Tariff Charge,8
+268362,01-05-15,Network Outage,10
+293685,05-16-15,Network Outage,8
+339735,06-14-15,Call Drop / Poor Coverage,3
+319302,02-06-15,VAS Unauthorized Activation,14
+253161,04-23-15,VAS Unauthorized Activation,8
+285046,12-05-15,Call Drop / Poor Coverage,10
+232972,04-13-15,Network Outage,9
+368709,06-26-15,Slow Internet Speed,6
+318093,01-06-15,Porting / MNP Issue,6
+342659,06-16-15,Billing Dispute,3
+348029,06-18-15,Call Drop / Poor Coverage,14
+358970,06-23-15,Incorrect Tariff Charge,5
+360546,06-23-15,Porting / MNP Issue,12
+361235,06-24-15,Incorrect Tariff Charge,14
+363355,06-24-15,Network Outage,12
+367108,06-25-15,Porting / MNP Issue,2
+268789,01-05-15,Network Outage,5
+314257,05-29-15,SIM Activation Delay,1
+369100,06-26-15,Incorrect Tariff Charge,7
+276668,06-05-15,Call Drop / Poor Coverage,1
+317911,01-06-15,Slow Internet Speed,3
+241252,04-17-15,Porting / MNP Issue,14
+358361,06-23-15,VAS Unauthorized Activation,10
+360077,06-23-15,Call Drop / Poor Coverage,13
+355105,06-22-15,Slow Internet Speed,4
+241834,04-17-15,Billing Dispute,14
+297208,05-19-15,Slow Internet Speed,4
+348033,06-18-15,Porting / MNP Issue,11
+288793,05-13-15,Incorrect Tariff Charge,4
+364028,06-25-15,Incorrect Tariff Charge,11
+234479,04-14-15,Incorrect Tariff Charge,4
+279634,08-05-15,Billing Dispute,5
+321250,03-06-15,SIM Activation Delay,11
+324947,05-06-15,Porting / MNP Issue,7
+339920,06-14-15,Network Outage,9
+282767,10-05-15,Network Outage,1
+353906,06-20-15,Network Outage,14
+354916,06-21-15,Billing Dispute,13
+360993,06-24-15,Incorrect Tariff Charge,13
+363593,06-24-15,VAS Unauthorized Activation,11
+322276,03-06-15,VAS Unauthorized Activation,1
+320264,03-06-15,Billing Dispute,8
+361980,06-24-15,Billing Dispute,3
+365185,06-25-15,Incorrect Tariff Charge,11
+222735,07-04-15,Incorrect Tariff Charge,3
+351135,06-19-15,Billing Dispute,10
+371928,06-29-15,Porting / MNP Issue,13
+280344,08-05-15,Call Drop / Poor Coverage,1
+359822,06-23-15,Incorrect Tariff Charge,4
+335619,11-06-15,VAS Unauthorized Activation,5
+244304,04-20-15,Call Drop / Poor Coverage,10
+252363,04-23-15,VAS Unauthorized Activation,13
+262918,04-28-15,Network Outage,5
+361212,06-24-15,Incorrect Tariff Charge,12
+294188,05-17-15,Incorrect Tariff Charge,12
+306039,05-25-15,Slow Internet Speed,11
+363286,06-24-15,Porting / MNP Issue,5
+213537,02-04-15,Call Drop / Poor Coverage,7
+275479,06-05-15,Network Outage,7
+213725,02-04-15,VAS Unauthorized Activation,14
+231133,12-04-15,Call Drop / Poor Coverage,6
+238470,04-16-15,SIM Activation Delay,8
+274654,05-05-15,Network Outage,5
+286377,12-05-15,VAS Unauthorized Activation,4
+313938,05-29-15,Billing Dispute,8
+339611,06-13-15,Porting / MNP Issue,5
+354734,06-21-15,Billing Dispute,11
+362180,06-24-15,SIM Activation Delay,9
+360778,06-24-15,Network Outage,14
+367371,06-26-15,Slow Internet Speed,10
+373782,06-29-15,SIM Activation Delay,7
+287937,05-13-15,Network Outage,10
+339548,06-13-15,VAS Unauthorized Activation,2
+361124,06-24-15,Incorrect Tariff Charge,1
+276683,06-05-15,Porting / MNP Issue,9
+357746,06-23-15,Billing Dispute,11
+235807,04-14-15,Porting / MNP Issue,14
+222366,07-04-15,SIM Activation Delay,14
+326985,06-06-15,Porting / MNP Issue,6
+262660,04-28-15,VAS Unauthorized Activation,9
+311883,05-28-15,Network Outage,11
+255516,04-24-15,Billing Dispute,10
+344563,06-16-15,SIM Activation Delay,10
+233296,04-13-15,Incorrect Tariff Charge,5
+226023,09-04-15,VAS Unauthorized Activation,5
+253290,04-23-15,Porting / MNP Issue,11
+261940,04-28-15,Incorrect Tariff Charge,2
+279007,07-05-15,Billing Dispute,8
+359071,06-23-15,VAS Unauthorized Activation,2
+359367,06-23-15,Incorrect Tariff Charge,6
+360219,06-23-15,Incorrect Tariff Charge,5
+363567,06-24-15,Call Drop / Poor Coverage,11
+264258,04-29-15,VAS Unauthorized Activation,6
+242509,04-17-15,SIM Activation Delay,14
+245779,04-20-15,SIM Activation Delay,5
+242571,04-17-15,Call Drop / Poor Coverage,5
+268669,01-05-15,Call Drop / Poor Coverage,11
+281353,08-05-15,SIM Activation Delay,12
+308648,05-27-15,Call Drop / Poor Coverage,11
+328364,08-06-15,Call Drop / Poor Coverage,5
+331768,09-06-15,SIM Activation Delay,4
+333882,10-06-15,VAS Unauthorized Activation,3
+352492,06-19-15,Incorrect Tariff Charge,9
+359857,06-23-15,VAS Unauthorized Activation,13
+359987,06-23-15,Incorrect Tariff Charge,4
+361965,06-24-15,Call Drop / Poor Coverage,1
+362015,06-24-15,Call Drop / Poor Coverage,13
+362908,06-24-15,Slow Internet Speed,14
+362981,06-24-15,Porting / MNP Issue,13
+360757,06-24-15,Porting / MNP Issue,13
+363743,06-25-15,Incorrect Tariff Charge,10
+368787,06-26-15,Billing Dispute,7
+375439,06-30-15,Call Drop / Poor Coverage,11
+220289,06-04-15,Network Outage,6
+226118,09-04-15,Call Drop / Poor Coverage,11
+241909,04-17-15,Slow Internet Speed,3
+224872,08-04-15,Incorrect Tariff Charge,12
+231549,04-13-15,VAS Unauthorized Activation,1
+255243,04-24-15,Call Drop / Poor Coverage,11
+270077,02-05-15,VAS Unauthorized Activation,8
+282772,10-05-15,SIM Activation Delay,5
+318183,02-06-15,SIM Activation Delay,5
+325969,05-06-15,Call Drop / Poor Coverage,7
+349454,06-18-15,Call Drop / Poor Coverage,7
+348118,06-18-15,Billing Dispute,7
+358465,06-23-15,Slow Internet Speed,12
+359252,06-23-15,SIM Activation Delay,1
+360274,06-23-15,SIM Activation Delay,10
+359652,06-23-15,Network Outage,12
+359923,06-23-15,SIM Activation Delay,10
+360797,06-24-15,SIM Activation Delay,14
+360606,06-24-15,Network Outage,4
+363769,06-25-15,Slow Internet Speed,6
+275947,06-05-15,Porting / MNP Issue,12
+360756,06-24-15,Incorrect Tariff Charge,12
+236729,04-15-15,VAS Unauthorized Activation,4
+338467,12-06-15,Slow Internet Speed,11
+360209,06-23-15,Billing Dispute,9
+369601,06-27-15,Network Outage,11
+370302,06-27-15,Billing Dispute,13
+364260,06-25-15,Porting / MNP Issue,8
+370299,06-27-15,VAS Unauthorized Activation,11
+258662,04-27-15,VAS Unauthorized Activation,6
+329234,08-06-15,SIM Activation Delay,9
+334953,11-06-15,Call Drop / Poor Coverage,5
+345891,06-17-15,Incorrect Tariff Charge,14
+362791,06-24-15,Call Drop / Poor Coverage,3
+360597,06-24-15,Network Outage,14
+240275,04-16-15,Slow Internet Speed,11
+298256,05-19-15,SIM Activation Delay,9
+363682,06-24-15,Network Outage,3
+367260,06-25-15,Billing Dispute,5
+220760,06-04-15,Porting / MNP Issue,2
+342274,06-15-15,Billing Dispute,8
+359280,06-23-15,Network Outage,3
+359993,06-23-15,Porting / MNP Issue,12
+360705,06-24-15,VAS Unauthorized Activation,5
+360684,06-24-15,Billing Dispute,12
+374393,06-30-15,Call Drop / Poor Coverage,13
+360315,06-23-15,Network Outage,9
+360375,06-23-15,Network Outage,13
+361828,06-24-15,Call Drop / Poor Coverage,3
+362758,06-24-15,Slow Internet Speed,11
+363269,06-24-15,Incorrect Tariff Charge,6
+366448,06-25-15,Call Drop / Poor Coverage,11
+373541,06-29-15,VAS Unauthorized Activation,2
+215057,02-04-15,VAS Unauthorized Activation,4
+329212,08-06-15,Billing Dispute,6
+343521,06-16-15,VAS Unauthorized Activation,4
+360587,06-24-15,Call Drop / Poor Coverage,12
+373570,06-29-15,SIM Activation Delay,14
+331416,09-06-15,Slow Internet Speed,5
+373855,06-30-15,Incorrect Tariff Charge,7
+349270,06-18-15,Billing Dispute,13
+359612,06-23-15,VAS Unauthorized Activation,6
+361718,06-24-15,Call Drop / Poor Coverage,6
+316973,01-06-15,Billing Dispute,5
+213120,01-04-15,Network Outage,10
+215649,03-04-15,Incorrect Tariff Charge,5
+230442,11-04-15,Call Drop / Poor Coverage,8
+257104,04-25-15,SIM Activation Delay,14
+306396,05-26-15,Billing Dispute,2
+308746,05-27-15,Porting / MNP Issue,8
+336532,12-06-15,Porting / MNP Issue,1
+359832,06-23-15,Incorrect Tariff Charge,14
+365373,06-25-15,Slow Internet Speed,11
+369310,06-26-15,Porting / MNP Issue,10
+371792,06-29-15,Slow Internet Speed,10
+373607,06-29-15,Billing Dispute,10
+358520,06-23-15,Billing Dispute,2
+211255,01-04-15,VAS Unauthorized Activation,8
+284663,11-05-15,Incorrect Tariff Charge,4
+328348,08-06-15,SIM Activation Delay,9
+353209,06-19-15,Network Outage,2
+360692,06-24-15,Call Drop / Poor Coverage,14
+263241,04-29-15,Porting / MNP Issue,11
+277390,06-05-15,SIM Activation Delay,7
+347759,06-18-15,VAS Unauthorized Activation,9
+319255,02-06-15,Call Drop / Poor Coverage,5
+325642,05-06-15,Incorrect Tariff Charge,7
+218949,06-04-15,Call Drop / Poor Coverage,1
+364450,06-25-15,Network Outage,14
+233754,04-14-15,Call Drop / Poor Coverage,14
+320969,03-06-15,Incorrect Tariff Charge,3
+359028,06-23-15,SIM Activation Delay,3
+231061,12-04-15,Network Outage,4
+231062,12-04-15,Slow Internet Speed,6
+238513,04-16-15,VAS Unauthorized Activation,7
+229036,10-04-15,Call Drop / Poor Coverage,10
+305301,05-24-15,Billing Dispute,8
+321676,03-06-15,Porting / MNP Issue,3
+326414,05-06-15,Call Drop / Poor Coverage,6
+344732,06-17-15,Slow Internet Speed,14
+359984,06-23-15,Call Drop / Poor Coverage,12
+360176,06-23-15,Incorrect Tariff Charge,3
+360526,06-23-15,SIM Activation Delay,13
+366821,06-25-15,SIM Activation Delay,2
+372108,06-29-15,Billing Dispute,8
+239267,04-16-15,VAS Unauthorized Activation,6
+268873,01-05-15,Billing Dispute,11
+306934,05-26-15,VAS Unauthorized Activation,3
+260733,04-28-15,Incorrect Tariff Charge,6
+316257,01-06-15,Porting / MNP Issue,11
+376228,06-30-15,VAS Unauthorized Activation,1
+371378,06-28-15,SIM Activation Delay,1
+256671,04-25-15,SIM Activation Delay,8
+219826,06-04-15,Slow Internet Speed,5
+362231,06-24-15,VAS Unauthorized Activation,4
+338800,06-13-15,Incorrect Tariff Charge,13
+215141,02-04-15,Slow Internet Speed,13
+218168,04-04-15,Slow Internet Speed,3
+235629,04-14-15,Network Outage,10
+246762,04-21-15,SIM Activation Delay,13
+306916,05-26-15,Billing Dispute,3
+345470,06-17-15,Billing Dispute,8
+361703,06-24-15,Incorrect Tariff Charge,13
+267527,04-30-15,VAS Unauthorized Activation,13
+223036,07-04-15,Slow Internet Speed,13
+257349,04-25-15,SIM Activation Delay,2
+293593,05-16-15,VAS Unauthorized Activation,3
+373797,06-29-15,Slow Internet Speed,10
+216841,03-04-15,VAS Unauthorized Activation,7
+370691,06-28-15,Network Outage,11
+374352,06-30-15,VAS Unauthorized Activation,7
+343068,06-16-15,Billing Dispute,7
+373980,06-30-15,Porting / MNP Issue,7
+223158,08-04-15,VAS Unauthorized Activation,8
+360825,06-24-15,Network Outage,7
+370900,06-28-15,VAS Unauthorized Activation,1
+315515,05-30-15,Call Drop / Poor Coverage,1
+364194,06-25-15,Network Outage,9
+371259,06-28-15,Porting / MNP Issue,4
+358524,06-23-15,Call Drop / Poor Coverage,12
+342060,06-15-15,Network Outage,6
+359191,06-23-15,SIM Activation Delay,1
+367242,06-25-15,Slow Internet Speed,6
+336340,12-06-15,Network Outage,13
+338856,06-13-15,Porting / MNP Issue,14
+362997,06-24-15,Incorrect Tariff Charge,9
+271145,04-05-15,Slow Internet Speed,4
+266198,04-30-15,Network Outage,1
+340067,06-14-15,Slow Internet Speed,11
+360268,06-23-15,VAS Unauthorized Activation,1
+364137,06-25-15,Network Outage,11
+277566,07-05-15,Call Drop / Poor Coverage,12
+325430,05-06-15,Porting / MNP Issue,4
+308301,05-26-15,Billing Dispute,4
+254669,04-24-15,Billing Dispute,12
+258986,04-27-15,Porting / MNP Issue,6
+259001,04-27-15,Incorrect Tariff Charge,5
+256720,04-25-15,Porting / MNP Issue,3
+309812,05-27-15,VAS Unauthorized Activation,2
+293693,05-16-15,Porting / MNP Issue,7
+346868,06-17-15,Porting / MNP Issue,9
+350181,06-18-15,Slow Internet Speed,10
+350184,06-18-15,Billing Dispute,5
+362544,06-24-15,Incorrect Tariff Charge,3
+339614,06-13-15,Slow Internet Speed,2
+375943,06-30-15,Billing Dispute,14
+261499,04-28-15,Porting / MNP Issue,1
+270680,03-05-15,Billing Dispute,5
+361098,06-24-15,SIM Activation Delay,5
+363813,06-25-15,Network Outage,8
+218518,05-04-15,Network Outage,12
+375809,06-30-15,Call Drop / Poor Coverage,9
+314752,05-30-15,VAS Unauthorized Activation,10
+352940,06-19-15,Porting / MNP Issue,9
+359794,06-23-15,Porting / MNP Issue,6
+364963,06-25-15,SIM Activation Delay,7
+316650,01-06-15,SIM Activation Delay,11
+244218,04-20-15,VAS Unauthorized Activation,3
+256691,04-25-15,Incorrect Tariff Charge,6
+218124,04-04-15,Billing Dispute,8
+259189,04-27-15,Call Drop / Poor Coverage,6
+283536,11-05-15,SIM Activation Delay,13
+318436,02-06-15,Slow Internet Speed,4
+338859,06-13-15,Network Outage,3
+358498,06-23-15,Porting / MNP Issue,13
+364896,06-25-15,Network Outage,7
+371472,06-29-15,SIM Activation Delay,1
+242481,04-17-15,SIM Activation Delay,4
+350035,06-18-15,Slow Internet Speed,4
+363649,06-24-15,Slow Internet Speed,12
+218097,04-04-15,Network Outage,3
+326114,05-06-15,VAS Unauthorized Activation,4
+357733,06-23-15,Network Outage,12
+340158,06-14-15,SIM Activation Delay,1
+361572,06-24-15,Network Outage,10
+313370,05-29-15,Porting / MNP Issue,9
+369429,06-26-15,VAS Unauthorized Activation,3
+262108,04-28-15,SIM Activation Delay,2
+320534,03-06-15,SIM Activation Delay,6
+362731,06-24-15,Network Outage,12
+376190,06-30-15,Billing Dispute,11
+329610,08-06-15,Call Drop / Poor Coverage,13
+297456,05-19-15,SIM Activation Delay,1
+247328,04-21-15,Incorrect Tariff Charge,7
+372295,06-29-15,Incorrect Tariff Charge,11
+262192,04-28-15,SIM Activation Delay,5
+322413,03-06-15,Call Drop / Poor Coverage,13
+369649,06-27-15,Billing Dispute,9
+361383,06-24-15,SIM Activation Delay,10
+359099,06-23-15,Porting / MNP Issue,1
+337660,12-06-15,Call Drop / Poor Coverage,10
+327569,07-06-15,Call Drop / Poor Coverage,1
+362576,06-24-15,Network Outage,11
+236066,04-14-15,Billing Dispute,2
+319877,02-06-15,Porting / MNP Issue,11
+360748,06-24-15,VAS Unauthorized Activation,14
+368078,06-26-15,Network Outage,1
+211784,01-04-15,Incorrect Tariff Charge,1
+220145,06-04-15,Porting / MNP Issue,12
+223729,08-04-15,Incorrect Tariff Charge,2
+336079,11-06-15,Porting / MNP Issue,7
+218840,06-04-15,Porting / MNP Issue,8
+372154,06-29-15,Billing Dispute,7
+333465,10-06-15,Call Drop / Poor Coverage,2
+344690,06-16-15,Porting / MNP Issue,9
+308769,05-27-15,Billing Dispute,5
+303597,05-22-15,VAS Unauthorized Activation,8
+233471,04-13-15,SIM Activation Delay,12
+356742,06-22-15,SIM Activation Delay,3
+361903,06-24-15,Call Drop / Poor Coverage,4
+255037,04-24-15,Billing Dispute,12
+272394,04-05-15,VAS Unauthorized Activation,11
+308850,05-27-15,Network Outage,11
+331848,09-06-15,Porting / MNP Issue,1
+307472,05-26-15,Porting / MNP Issue,5
+242577,04-17-15,Billing Dispute,7
+265823,04-30-15,Porting / MNP Issue,11
+213518,02-04-15,SIM Activation Delay,2
+344883,06-17-15,Call Drop / Poor Coverage,11
+369563,06-27-15,SIM Activation Delay,9
+290085,05-14-15,Incorrect Tariff Charge,5
+345639,06-17-15,Slow Internet Speed,10
+358840,06-23-15,VAS Unauthorized Activation,10
+363603,06-24-15,Incorrect Tariff Charge,12
+371208,06-28-15,Slow Internet Speed,3
+258152,04-27-15,SIM Activation Delay,7
+326331,05-06-15,Network Outage,14
+362484,06-24-15,Call Drop / Poor Coverage,2
+369894,06-27-15,Porting / MNP Issue,9
+221876,07-04-15,Network Outage,12
+233356,04-13-15,Slow Internet Speed,10
+261206,04-28-15,SIM Activation Delay,2
+279834,08-05-15,SIM Activation Delay,5
+304971,05-23-15,VAS Unauthorized Activation,2
+304972,05-23-15,SIM Activation Delay,13
+325610,05-06-15,Incorrect Tariff Charge,2
+361123,06-24-15,Call Drop / Poor Coverage,8
+361389,06-24-15,Network Outage,4
+362352,06-24-15,SIM Activation Delay,10
+366673,06-25-15,SIM Activation Delay,4
+368496,06-26-15,Slow Internet Speed,13
+310791,05-28-15,VAS Unauthorized Activation,5
+246156,04-20-15,SIM Activation Delay,14
+344114,06-16-15,SIM Activation Delay,9
+267864,01-05-15,Porting / MNP Issue,4
+346171,06-17-15,SIM Activation Delay,6
+257261,04-25-15,Incorrect Tariff Charge,12
+360561,06-23-15,Call Drop / Poor Coverage,7
+331448,09-06-15,Porting / MNP Issue,5
+258344,04-27-15,VAS Unauthorized Activation,3
+283584,11-05-15,Incorrect Tariff Charge,1
+220830,06-04-15,Call Drop / Poor Coverage,9
+374193,06-30-15,Call Drop / Poor Coverage,8
+235976,04-14-15,Incorrect Tariff Charge,4
+342712,06-16-15,VAS Unauthorized Activation,12
+318166,02-06-15,VAS Unauthorized Activation,8
+256900,04-25-15,Slow Internet Speed,6
+252485,04-23-15,VAS Unauthorized Activation,4
+375640,06-30-15,Incorrect Tariff Charge,1
+332583,10-06-15,SIM Activation Delay,1
+360650,06-24-15,Incorrect Tariff Charge,11
+307797,05-26-15,Incorrect Tariff Charge,2
+243690,04-19-15,Porting / MNP Issue,2
+218553,05-04-15,Network Outage,14
+257660,04-26-15,SIM Activation Delay,10
+263031,04-28-15,Billing Dispute,11
+272685,04-05-15,Network Outage,8
+303296,05-22-15,Call Drop / Poor Coverage,3
+303430,05-22-15,Porting / MNP Issue,2
+309981,05-27-15,Call Drop / Poor Coverage,13
+313928,05-29-15,Billing Dispute,9
+326487,06-06-15,SIM Activation Delay,2
+347736,06-18-15,Incorrect Tariff Charge,12
+353020,06-19-15,SIM Activation Delay,12
+360493,06-23-15,Porting / MNP Issue,2
+361278,06-24-15,SIM Activation Delay,5
+360586,06-24-15,VAS Unauthorized Activation,11
+363735,06-25-15,Incorrect Tariff Charge,4
+363773,06-25-15,Call Drop / Poor Coverage,8
+368168,06-26-15,VAS Unauthorized Activation,5
+367324,06-26-15,VAS Unauthorized Activation,5
+336982,12-06-15,VAS Unauthorized Activation,8
+374566,06-30-15,Billing Dispute,1
+357359,06-22-15,Incorrect Tariff Charge,2
+335869,11-06-15,Billing Dispute,14
+360717,06-24-15,Billing Dispute,3
+226421,09-04-15,VAS Unauthorized Activation,14
+302629,05-21-15,Billing Dispute,1
+310832,05-28-15,Network Outage,14
+354508,06-21-15,Network Outage,5
+356764,06-22-15,Slow Internet Speed,6
+359468,06-23-15,Network Outage,13
+360548,06-23-15,Network Outage,11
+242410,04-17-15,Porting / MNP Issue,6
+350863,06-18-15,Billing Dispute,7
+346765,06-17-15,SIM Activation Delay,12
+371230,06-28-15,Slow Internet Speed,2
+238116,04-15-15,Billing Dispute,2
+218733,05-04-15,Network Outage,14
+242545,04-17-15,SIM Activation Delay,13
+257659,04-26-15,VAS Unauthorized Activation,1
+273429,05-05-15,Incorrect Tariff Charge,1
+281231,08-05-15,Network Outage,14
+316159,01-06-15,VAS Unauthorized Activation,3
+312977,05-29-15,VAS Unauthorized Activation,11
+363419,06-24-15,Network Outage,11
+342428,06-15-15,Network Outage,3
+360969,06-24-15,Porting / MNP Issue,6
+367693,06-26-15,Network Outage,6
+243582,04-19-15,Network Outage,8
+334816,11-06-15,Call Drop / Poor Coverage,10
+282436,10-05-15,Call Drop / Poor Coverage,5
+375485,06-30-15,Network Outage,12
+360535,06-23-15,Porting / MNP Issue,2
+360636,06-24-15,Billing Dispute,6
+277005,06-05-15,Slow Internet Speed,14
+355153,06-22-15,Slow Internet Speed,6
+252611,04-23-15,Billing Dispute,3
+357069,06-22-15,SIM Activation Delay,2
+360625,06-24-15,SIM Activation Delay,7
+357230,06-22-15,Call Drop / Poor Coverage,7
+216620,03-04-15,Incorrect Tariff Charge,8
+256283,04-24-15,Call Drop / Poor Coverage,5
+259550,04-27-15,Porting / MNP Issue,14
+267642,04-30-15,Slow Internet Speed,7
+303715,05-22-15,Incorrect Tariff Charge,12
+306239,05-25-15,Porting / MNP Issue,14
+311271,05-28-15,VAS Unauthorized Activation,8
+318489,02-06-15,SIM Activation Delay,13
+335489,11-06-15,SIM Activation Delay,7
+340431,06-15-15,Call Drop / Poor Coverage,11
+360231,06-23-15,Slow Internet Speed,13
+361379,06-24-15,Network Outage,3
+360961,06-24-15,Slow Internet Speed,2
+364571,06-25-15,Porting / MNP Issue,3
+364340,06-25-15,Porting / MNP Issue,12
+372912,06-29-15,Porting / MNP Issue,12
+368743,06-26-15,VAS Unauthorized Activation,1
+212381,01-04-15,Network Outage,14
+260891,04-28-15,Network Outage,3
+363290,06-24-15,Billing Dispute,2
+364377,06-25-15,Slow Internet Speed,7
+341156,06-15-15,VAS Unauthorized Activation,10
+363972,06-25-15,Porting / MNP Issue,8
+340558,06-15-15,Incorrect Tariff Charge,13
+260999,04-28-15,Slow Internet Speed,10
+340299,06-14-15,Network Outage,11
+364010,06-25-15,SIM Activation Delay,8
+213198,01-04-15,SIM Activation Delay,3
+211677,01-04-15,VAS Unauthorized Activation,10
+370429,06-27-15,Call Drop / Poor Coverage,7
+291564,05-15-15,Network Outage,13
+295511,05-18-15,Slow Internet Speed,6
+301420,05-21-15,Call Drop / Poor Coverage,10
+329414,08-06-15,Network Outage,1
+231419,12-04-15,Billing Dispute,14
+230991,11-04-15,Incorrect Tariff Charge,11
+324821,05-06-15,Network Outage,14
+363531,06-24-15,SIM Activation Delay,12
+373404,06-29-15,Billing Dispute,3
+221993,07-04-15,Porting / MNP Issue,8
+228557,10-04-15,Slow Internet Speed,8
+367577,06-26-15,Call Drop / Poor Coverage,2
+355412,06-22-15,Billing Dispute,7
+361630,06-24-15,SIM Activation Delay,8
+368991,06-26-15,Porting / MNP Issue,1
+375388,06-30-15,Incorrect Tariff Charge,2
+257843,04-26-15,Porting / MNP Issue,5
+309425,05-27-15,Billing Dispute,11
+310997,05-28-15,Slow Internet Speed,6
+335842,11-06-15,Incorrect Tariff Charge,1
+358985,06-23-15,Network Outage,12
+362830,06-24-15,Slow Internet Speed,14
+284195,11-05-15,Porting / MNP Issue,11
+336674,12-06-15,SIM Activation Delay,9
+359831,06-23-15,Slow Internet Speed,13
+364489,06-25-15,Incorrect Tariff Charge,12
+306258,05-25-15,Porting / MNP Issue,10
+366969,06-25-15,Incorrect Tariff Charge,12
+282585,10-05-15,Network Outage,10
+370248,06-27-15,Call Drop / Poor Coverage,4
+293228,05-16-15,VAS Unauthorized Activation,11
+376295,06-30-15,VAS Unauthorized Activation,14
+316632,01-06-15,SIM Activation Delay,6
+232360,04-13-15,Incorrect Tariff Charge,9
+247649,04-21-15,Porting / MNP Issue,9
+258204,04-27-15,Porting / MNP Issue,12
+333207,10-06-15,Billing Dispute,12
+335016,11-06-15,Porting / MNP Issue,10
+360304,06-23-15,Slow Internet Speed,2
+367686,06-26-15,Call Drop / Poor Coverage,7
+312486,05-28-15,SIM Activation Delay,11
+276147,06-05-15,Slow Internet Speed,12
+360866,06-24-15,Slow Internet Speed,4
+360139,06-23-15,Call Drop / Poor Coverage,8
+222759,07-04-15,Billing Dispute,6
+249325,04-22-15,Porting / MNP Issue,11
+337251,12-06-15,Billing Dispute,11
+360051,06-23-15,Porting / MNP Issue,11
+270923,03-05-15,Incorrect Tariff Charge,7
+318189,02-06-15,Incorrect Tariff Charge,3
+339481,06-13-15,Slow Internet Speed,14
+360169,06-23-15,Slow Internet Speed,14
+359056,06-23-15,Network Outage,9
+302816,05-22-15,Call Drop / Poor Coverage,10
+245857,04-20-15,VAS Unauthorized Activation,1
+259691,04-27-15,Incorrect Tariff Charge,1
+305166,05-24-15,Call Drop / Poor Coverage,11
+329247,08-06-15,Slow Internet Speed,3
+350920,06-19-15,Billing Dispute,9
+357824,06-23-15,Slow Internet Speed,14
+360908,06-24-15,Billing Dispute,8
+363934,06-25-15,Porting / MNP Issue,14
+374570,06-30-15,VAS Unauthorized Activation,8
+279410,07-05-15,Porting / MNP Issue,14
+228198,10-04-15,Slow Internet Speed,3
+221763,07-04-15,Network Outage,2
+326963,06-06-15,Slow Internet Speed,13
+256002,04-24-15,Incorrect Tariff Charge,8
+310847,05-28-15,Slow Internet Speed,6
+360946,06-24-15,Incorrect Tariff Charge,4
+363852,06-25-15,Porting / MNP Issue,6
+254488,04-24-15,Network Outage,5
+338192,12-06-15,Call Drop / Poor Coverage,1
+213550,02-04-15,Porting / MNP Issue,9
+318775,02-06-15,Porting / MNP Issue,4
+331188,09-06-15,Slow Internet Speed,9
+360489,06-23-15,SIM Activation Delay,11
+363614,06-24-15,Billing Dispute,7
