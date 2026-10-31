@@ -1,4 +1,4 @@
-complaint_id,complaint_date,complaint_type,resolution_days
+﻿complaint_id,complaint_date,complaint_type,resolution_days
 250635,2015-04-22,Slow Internet Speed,11
 223441,2015-08-04,Network Outage,7
 242732,2015-04-18,Call Drop / Poor Coverage,3
