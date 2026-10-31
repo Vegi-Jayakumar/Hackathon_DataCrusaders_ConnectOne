@@ -1,0 +1,15 @@
+dataset,action,rows_affected
+subscriber,dropped rows with missing subscriber_id,8
+subscriber,dropped exact duplicate rows,0
+subscriber,dropped repeated subscriber_id,0
+network,dropped rows with missing subscriber_id,8
+network,dropped exact duplicate rows,0
+network,dropped repeated subscriber_id,0
+status,dropped rows with missing subscriber_id,8
+status,dropped exact duplicate rows,0
+status,dropped repeated subscriber_id,0
+complaints,dropped rows with missing complaint_id,0
+complaints,dropped exact duplicate rows,0
+complaints,dropped repeated complaint_id,0
+usage,missing cells found,0
+usage,"exact duplicate rows (reported, not dropped - no key to prove they are true duplicates)",0
